@@ -1,0 +1,11 @@
+chave,valor,formula,fonte
+produto_total_bi,965.3475567348037,"Σ produto IBS 2033 (E: ICMS bruto + fundos; M: ISS com DF), janela 2024-25 deflacionada","EC 132/2023, ADCT arts. 131-132; LC 227/2026, arts. 104-117; CF art. 158, IV; LC 227/2026, art. 128"
+produto_estadual_bi,819.4505179393685,Σ esfera E,r_estadual.csv + fundos
+produto_municipal_bi,145.89703879543515,Σ esfera M,r_municipal_uf.csv
+pool_seguro_bi,4.826737783674018,"5% × (1 − 90%) × produto (LC 227, arts. 109-110)","EC 132/2023, ADCT arts. 131-132; LC 227/2026, arts. 104-117; CF art. 158, IV; LC 227/2026, art. 128"
+suficiencia_minima_pct,86.14642233404744,mín recebido/referência (ente: TO-M),distribuicao_2033.csv
+suficiencia_maxima_pct,114.93319277905027,máx (ente: AM-E),distribuicao_2033.csv
+suficiencia_mediana_pct,97.93313666253475,mediana 54 entes,distribuicao_2033.csv
+n_entes_abaixo_100,34.0,nº de UF×esfera com suficiência < 100%,distribuicao_2033.csv
+n_entes_abaixo_piso_905,5.0,"nº de UF×esfera abaixo do piso de 90,5% (art. 371 + Anexo XVI)",distribuicao_2033.csv
+n_entes,54.0,27 UFs × 2 esferas,—

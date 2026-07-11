@@ -1,0 +1,7 @@
+chave,valor,formula,fonte
+elasticidade_lambda_pp_por_ponto_soma,11.770051016526232,100 × [λ*(γ=15%) − λ*(γ=10%)] ÷ [Σ_livre(γ=15%) − Σ_livre(γ=10%)],trava_conforme.csv × aferir_nacional.csv (corredor de γ)
+lambda_corredor_min_pct,60.37087440490723,λ* no piso do corredor (γ=10%),trava_conforme.csv
+lambda_corredor_max_pct,82.2695255279541,λ* no teto do corredor (γ=15%),trava_conforme.csv
+lambda_central_pct,71.00739479064941,"λ* central (γ=12,5%)",trava_conforme.csv
+soma_livre_corredor_min_pp,31.62918058461156,Σ sem trava no piso do corredor,aferir_nacional.csv
+soma_livre_corredor_max_pp,33.489720619000465,Σ sem trava no teto do corredor,aferir_nacional.csv

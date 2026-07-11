@@ -1,0 +1,32 @@
+{
+ "arquivos": {
+  "ALUGUEL_ESTIMADO.txt": {
+   "bytes": 5333915,
+   "sha256": "b9aa61670c83ef3bfdde09f52a398e7f4f7833d35bbfc779d12f3e1e0107fc58"
+  },
+  "CADERNETA_COLETIVA.txt": {
+   "bytes": 110599300,
+   "sha256": "4b302e93e44c95f8c13464a77c2a58d468808e2fb17f05cfb0444d3c9b63745d"
+  },
+  "DESPESA_COLETIVA.txt": {
+   "bytes": 68435796,
+   "sha256": "259ad03f7caa01b9cb2946581b8095fb052ea47aeb9db0a57cece420099680ea"
+  },
+  "DESPESA_INDIVIDUAL.txt": {
+   "bytes": 222159872,
+   "sha256": "b2646c40897c47eb4a016b2802b4cfdd8f203731ab82955c462e2e59715e38f8"
+  },
+  "Dicionarios_de_variaveis.xls": {
+   "bytes": 297984,
+   "sha256": "7b3dabe5e1680e7e3ba2012873eed7f66a4b3aa486f8c33b753c2d6c04a787a5"
+  },
+  "MORADOR.txt": {
+   "bytes": 35329338,
+   "sha256": "eaf8c326751ec68af4d5c1358e6014bd73ef3e4ba13f7bb38916d489a618a4cc"
+  }
+ },
+ "collected_at": "2026-07-10T16:29:25+00:00",
+ "dominio": "pof",
+ "nota": "microdados POF 2017-2018 extraídos dos zips oficiais do IBGE para data/raw/pof/ (aferir.fetch.pof); hashes abaixo identificam byte a byte os insumos lidos por aferir.inputs.pof",
+ "url": "https://ftp.ibge.gov.br/Orcamentos_Familiares/Pesquisa_de_Orcamentos_Familiares_2017_2018/Microdados/"
+}

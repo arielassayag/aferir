@@ -1,0 +1,251 @@
+{
+ "arquivos": {
+  "data/inputs/fbcf_v1_uf.csv": "56618c57dce86d9a55ea869e5f9ece48bd7bdb93a79ac8e0bcc931a61e882c4b",
+  "data/inputs/pis_cofins_combustiveis_vigencias.csv": "a64b6d6ec360329a39558804664d2d13cea6a024e878023c35a288d70ac42481",
+  "data/raw/anp/vendas-combustiveis-m3-1990-2025.csv": "375d7066b4fb2998461c431ef3bc5eec259c30f379d61e7ae96411f14aa5fe69",
+  "data/raw/rfb/sn_arrecadacao_ate_jan26.xlsx": "95cea6bb06fa89c465a8db6546378baa98705d92f3622e2af1169cad358fd40c",
+  "data/raw/sidra/cnt_1846_decada.json": "b1e9e1fa4d09846abd863bae25650fe9b351c5ced76bd2f294ce2858a4409520",
+  "data/raw/sidra/cnt_1846_decada.json._meta.json": "402af5577b190fa03a93e13dd9b461ccf293c1e72468d8d98bc0c1501b6ff3a3",
+  "data/raw/sidra/ipca_1737.parquet": "dea8ce83a7c9a12999c6d54815ce31a95a98b8c86d41a2a2cf026e77914a853e"
+ },
+ "nums": {
+  "B_C_nacional": {
+   "fonte": "TRU 2021 tab2 (remoções no lado TRU); escala SIDRA 1846",
+   "formula": "[C_fam_TRU2021 − (68002 + 97001 + 19912 + 19921 + 19916)] × escala",
+   "label": "DERIVADO",
+   "unidade": "R$ bi biênio",
+   "valor": 6161.701414440808
+  },
+  "B_C_nacional[sifim=excluido]": {
+   "fonte": "TRU 2021 tab2 (remoções no lado TRU); escala SIDRA 1846",
+   "formula": "[C_fam_TRU2021 − (68002 + 97001 + 19912 + 19921 + 19916)] × escala − SIFIM_imputado (ajuste_sifim.csv, nível 2021)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi biênio",
+   "valor": 5789.627498789906
+  },
+  "B_C_nacional[sifim=excluido][janela=2024]": {
+   "fonte": "TRU 2021 tab2 (remoções no lado TRU); escala SIDRA 1846",
+   "formula": "[C_fam_TRU2021 − (68002 + 97001 + 19912 + 19921 + 19916)] × escala − SIFIM_imputado (ajuste_sifim.csv, nível 2021)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi biênio",
+   "valor": 5728.15215738532
+  },
+  "B_FBCF_NC_nacional[fbcf_imob=redutores]": {
+   "fonte": "ajuste_fbcf_imobiliaria.csv (LC 214, art. 261)",
+   "formula": "(FBCF_TRU × share_NC − delta_art261) × escala_fbcf",
+   "label": "DERIVADO",
+   "unidade": "R$ bi biênio",
+   "valor": 209.57014512792415
+  },
+  "B_FBCF_NC_nacional[fbcf_imob=redutores][janela=2024]": {
+   "fonte": "ajuste_fbcf_imobiliaria.csv (LC 214, art. 261)",
+   "formula": "(FBCF_TRU × share_NC − delta_art261) × escala_fbcf",
+   "label": "DERIVADO",
+   "unidade": "R$ bi biênio",
+   "valor": 206.93222449240346
+  },
+  "R_E_nacional_ex_comb": {
+   "fonte": "SICONFI RREO An.03 + ANP + CONFAZ + NT SERT p.4",
+   "formula": "Σ_uf [ICMS bruto − ad rem ANP×CONFAZ − ad valorem EHC + fundos art. 350,II,'b']",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 662.778326207813
+  },
+  "R_E_nacional_ex_comb[janela=2024]": {
+   "fonte": "SICONFI RREO An.03 + ANP + CONFAZ + NT SERT p.4",
+   "formula": "Σ_uf [ICMS bruto − ad rem ANP×CONFAZ − ad valorem EHC + fundos art. 350,II,'b']",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 659.4539283455598
+  },
+  "R_M_nacional": {
+   "fonte": "SICONFI DCA municipal + RREO-DF; LC 214 art. 350, III",
+   "formula": "média janela deflacionada de iss_total_com_imputacao (municípios+DF)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 145.89703879543515
+  },
+  "R_M_nacional[janela=2024]": {
+   "fonte": "SICONFI DCA municipal + RREO-DF; LC 214 art. 350, III",
+   "formula": "média janela deflacionada de iss_total_com_imputacao (municípios+DF)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 141.99054701332238
+  },
+  "alvo_CBS": {
+   "fonte": "LC 214 art. 353; RTN/STN Tab. 2.2 (líquida) e RFB XLSX; NT SERT p.4; IS: LC 214 art. 409 + Anexo XVII (proxy = cota inferior)",
+   "formula": "âncora 2012-2021 (%PIB, liquida_rtn) × PIB janela − IPI residual ZFM − IS estimado (proxy_ipi_rfb) − PIS/Cofins-combustíveis",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 547.0711457245017
+  },
+  "alvo_CBS_sens[bruta_rfb;is=proxy_ipi_rfb;is_bi=17.6001]": {
+   "fonte": "LC 214 art. 353; RTN/STN Tab. 2.2 (líquida) e RFB XLSX; NT SERT p.4; IS: LC 214 art. 409 + Anexo XVII (proxy = cota inferior)",
+   "formula": "âncora 2012-2021 (%PIB, bruta_rfb) × PIB janela − IPI residual ZFM − IS estimado (proxy_ipi_rfb) − PIS/Cofins-combustíveis",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 545.5562535366994
+  },
+  "alvo_CBS_sens[liquida_rtn;is=informado;is_bi=0.0000]": {
+   "fonte": "LC 214 art. 353; RTN/STN Tab. 2.2 (líquida) e RFB XLSX; NT SERT p.4; IS: LC 214 art. 409 + Anexo XVII (proxy = cota inferior)",
+   "formula": "âncora 2012-2021 (%PIB, liquida_rtn) × PIB janela − IPI residual ZFM − IS estimado (informado) − PIS/Cofins-combustíveis",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 564.671293025305
+  },
+  "alvo_CBS_sens[liquida_rtn;is=informado;is_bi=19.4254]": {
+   "fonte": "LC 214 art. 353; RTN/STN Tab. 2.2 (líquida) e RFB XLSX; NT SERT p.4; IS: LC 214 art. 409 + Anexo XVII (proxy = cota inferior)",
+   "formula": "âncora 2012-2021 (%PIB, liquida_rtn) × PIB janela − IPI residual ZFM − IS estimado (informado) − PIS/Cofins-combustíveis",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 545.2458641685641
+  },
+  "alvo_CBS_sens[liquida_rtn;is=proxy_ipi_rfb;is_bi=17.1682][janela=2024]": {
+   "fonte": "LC 214 art. 353; RTN/STN Tab. 2.2 (líquida) e RFB XLSX; NT SERT p.4; IS: LC 214 art. 409 + Anexo XVII (proxy = cota inferior)",
+   "formula": "âncora 2012-2021 (%PIB, liquida_rtn) × PIB janela − IPI residual ZFM − IS estimado (proxy_ipi_rfb) − PIS/Cofins-combustíveis",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 538.0086055226552
+  },
+  "deflator_ipca_2025_para_2024": {
+   "fonte": "IBGE SIDRA tabela 1737 (IPCA número-índice, base dez/1993=100), https://sidra.ibge.gov.br/tabela/1737; cache local data/raw/sidra/ipca_1737.parquet",
+   "formula": "IPCA_médio(2024) / IPCA_médio(2025)",
+   "label": "DERIVADO",
+   "unidade": "R$ 2024 por R$ 2025",
+   "valor": 0.9522290238225959
+  },
+  "e4_s_corrente_2024_2025": {
+   "fonte": "IBGE SIDRA t/1846 (SCN Trimestral) v/585 R$ mi correntes, c11255={90707 PIB pm; 93404 despesa de consumo das famílias}, 2015T1-2025T4; https://apisidra.ibge.gov.br/values/t/1846/n1/all/v/585/p/201501-202504/c11255/90707,93404?formato=json; coletado em 2026-07-12T19:34:16.904225+00:00; sha256 b1e9e1fa4d09846abd863bae25650fe9b351c5ced76bd2f294ce2858a4409520; cache data/raw/sidra/cnt_1846_decada.json",
+   "formula": "Σ8tri consumo das famílias ÷ Σ8tri PIB, 2024T1-2025T4",
+   "label": "DERIVADO",
+   "unidade": "razão consumo famílias/PIB",
+   "valor": 0.6368801104927082
+  },
+  "e4_s_max_decada": {
+   "fonte": "IBGE SIDRA t/1846 (SCN Trimestral) v/585 R$ mi correntes, c11255={90707 PIB pm; 93404 despesa de consumo das famílias}, 2015T1-2025T4; https://apisidra.ibge.gov.br/values/t/1846/n1/all/v/585/p/201501-202504/c11255/90707,93404?formato=json; coletado em 2026-07-12T19:34:16.904225+00:00; sha256 b1e9e1fa4d09846abd863bae25650fe9b351c5ced76bd2f294ce2858a4409520; cache data/raw/sidra/cnt_1846_decada.json",
+   "formula": "máx{s_anual: 2015-2025} (ocorre em 2019)",
+   "label": "DERIVADO",
+   "unidade": "razão consumo famílias/PIB",
+   "valor": 0.651440473852744
+  },
+  "e4_s_min_decada": {
+   "fonte": "IBGE SIDRA t/1846 (SCN Trimestral) v/585 R$ mi correntes, c11255={90707 PIB pm; 93404 despesa de consumo das famílias}, 2015T1-2025T4; https://apisidra.ibge.gov.br/values/t/1846/n1/all/v/585/p/201501-202504/c11255/90707,93404?formato=json; coletado em 2026-07-12T19:34:16.904225+00:00; sha256 b1e9e1fa4d09846abd863bae25650fe9b351c5ced76bd2f294ce2858a4409520; cache data/raw/sidra/cnt_1846_decada.json",
+   "formula": "mín{s_anual: 2015-2025} (ocorre em 2021)",
+   "label": "DERIVADO",
+   "unidade": "razão consumo famílias/PIB",
+   "valor": 0.6136799664275152
+  },
+  "escala_bienio": {
+   "fonte": "IBGE SIDRA 1846 v/585 c11255/93404 (consumo das famílias, nominal)",
+   "formula": "média janela nominal ÷ C_fam_2021",
+   "label": "DERIVADO",
+   "unidade": "razão",
+   "valor": 1.3767888373348187
+  },
+  "escala_bienio[janela=2024]": {
+   "fonte": "IBGE SIDRA 1846 v/585 c11255/93404 (consumo das famílias, nominal)",
+   "formula": "média janela nominal ÷ C_fam_2021",
+   "label": "DERIVADO",
+   "unidade": "razão",
+   "valor": 1.3621698374363154
+  },
+  "escala_bienio_fbcf": {
+   "fonte": "IBGE SIDRA 1846 v/585 c11255/93406 (FBCF, nominal)",
+   "formula": "média janela nominal ÷ FBCF_2021",
+   "label": "DERIVADO",
+   "unidade": "razão",
+   "valor": 1.24920139918288
+  },
+  "escala_bienio_fbcf[janela=2024]": {
+   "fonte": "IBGE SIDRA 1846 v/585 c11255/93406 (FBCF, nominal)",
+   "formula": "média janela nominal ÷ FBCF_2021",
+   "label": "DERIVADO",
+   "unidade": "razão",
+   "valor": 1.2334773362596314
+  },
+  "ipca_indice_medio_2024": {
+   "fonte": "IBGE SIDRA tabela 1737 (IPCA número-índice, base dez/1993=100), https://sidra.ibge.gov.br/tabela/1737; cache local data/raw/sidra/ipca_1737.parquet",
+   "formula": "média dos 12 números-índice mensais de 2024",
+   "label": "DADO",
+   "unidade": "índice (dez/1993=100)",
+   "valor": 6952.073333333334
+  },
+  "ipca_indice_medio_2025": {
+   "fonte": "IBGE SIDRA tabela 1737 (IPCA número-índice, base dez/1993=100), https://sidra.ibge.gov.br/tabela/1737; cache local data/raw/sidra/ipca_1737.parquet",
+   "formula": "média dos 12 números-índice mensais de 2025",
+   "label": "DADO",
+   "unidade": "índice (dez/1993=100)",
+   "valor": 7300.841666666666
+  },
+  "is_estimado_proxy_ipi": {
+   "fonte": "XLSX RFB 1994-2025 (linhas I.P.I-*); campo do IS: LC 214, art. 409 + Anexo XVII (alíquotas aguardam lei ordinária, art. 414)",
+   "formula": "média janela deflacionada de (I.P.I-FUMO + I.P.I-BEBIDAS + I.P.I-AUTOMÓVEIS); proxy iso-carga = cota INFERIOR do IS",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 17.600147300803357
+  },
+  "is_estimado_proxy_ipi[janela=2024]": {
+   "fonte": "XLSX RFB 1994-2025 (linhas I.P.I-*); campo do IS: LC 214, art. 409 + Anexo XVII (alíquotas aguardam lei ordinária, art. 414)",
+   "formula": "média janela deflacionada de (I.P.I-FUMO + I.P.I-BEBIDAS + I.P.I-AUTOMÓVEIS); proxy iso-carga = cota INFERIOR do IS",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 17.168209570910005
+  },
+  "pi_p_nacional": {
+   "fonte": "matriz_pof_ibs_v5.csv",
+   "formula": "Σ w_i(1−m_i) / Σ w_i, i∉F",
+   "label": "DERIVADO",
+   "unidade": "fração",
+   "valor": 0.2504676207974756
+  },
+  "piscofins_combustiveis": {
+   "fonte": "ANP + Decreto 5.059/2004 e alteradores (vigências 2024-2025) + Lei 14.993/2024",
+   "formula": "Σ_mes volumes ANP fósseis × ad rem federais vigentes no mês (E27/E30, B14/B15; GLP=0 no P13; QAV não deduzido)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 45.63971668020977
+  },
+  "piscofins_combustiveis[janela=2024]": {
+   "fonte": "ANP + Decreto 5.059/2004 e alteradores (vigências 2024-2025) + Lei 14.993/2024",
+   "formula": "Σ_mes volumes ANP fósseis × ad rem federais vigentes no mês (E27/E30, B14/B15; GLP=0 no P13; QAV não deduzido)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 46.14196769364484
+  },
+  "r_simples_icms_bi": {
+   "fonte": "XLSX RFB 'SN ARRECADAÇÃO ATÉ JAN 26' (aba ANUAL, R$ mi correntes; página https://www8.receita.fazenda.gov.br/SimplesNacional/ConteudoApoio/Arrecadacao/EstatisticasArrecadacao.aspx); repasse por esfera: LC 123, art. 22, I-II",
+   "formula": "média janela deflacionada da coluna ESTADOS (ICMS-Simples)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 24.1547089621654
+  },
+  "r_simples_iss_bi": {
+   "fonte": "XLSX RFB 'SN ARRECADAÇÃO ATÉ JAN 26' (aba ANUAL, R$ mi correntes; página https://www8.receita.fazenda.gov.br/SimplesNacional/ConteudoApoio/Arrecadacao/EstatisticasArrecadacao.aspx); repasse por esfera: LC 123, art. 22, I-II",
+   "formula": "média janela deflacionada da coluna MUNICÍPIOS (ISS-Simples)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 22.42277537030155
+  },
+  "share_fbcf_nc": {
+   "fonte": "convenção v1 (VTI/PIA, art. 200 §4º) vendorada",
+   "formula": "Σ B_FBCF_v1 ÷ (FBCF_TRU2021 × 1,406037)",
+   "label": "CONVENCAO",
+   "unidade": "fração",
+   "valor": 0.11214640367734895
+  },
+  "share_simples_icms_alvo_E": {
+   "fonte": "XLSX RFB 'SN ARRECADAÇÃO ATÉ JAN 26' (aba ANUAL, R$ mi correntes; página https://www8.receita.fazenda.gov.br/SimplesNacional/ConteudoApoio/Arrecadacao/EstatisticasArrecadacao.aspx); repasse por esfera: LC 123, art. 22, I-II | revenue.alvo_estadual_uf",
+   "formula": "r_simples_icms_bi / Σ alvo_ex_comb estadual",
+   "label": "DERIVADO",
+   "unidade": "fração",
+   "valor": 0.036444627120458574
+  },
+  "share_simples_iss_alvo_M": {
+   "fonte": "XLSX RFB 'SN ARRECADAÇÃO ATÉ JAN 26' (aba ANUAL, R$ mi correntes; página https://www8.receita.fazenda.gov.br/SimplesNacional/ConteudoApoio/Arrecadacao/EstatisticasArrecadacao.aspx); repasse por esfera: LC 123, art. 22, I-II | revenue.alvo_municipal_uf",
+   "formula": "r_simples_iss_bi / Σ alvo municipal",
+   "label": "DERIVADO",
+   "unidade": "fração",
+   "valor": 0.1536890368401577
+  }
+ }
+}

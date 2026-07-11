@@ -1,0 +1,13 @@
+{
+ "arquivos": {
+  "mds_informe_cadunico_59.pdf": {
+   "bytes": 646406,
+   "sha256": "e6c530e2d24f40ae4c6b1b3b159b43f999c8a4cd664ff8a7cbfa177e173809e6"
+  }
+ },
+ "collected_at": "2026-07-12T00:00:00+00:00",
+ "dominio": "mds",
+ "nota": "Informe Cadastro Único nº 59 (MDS, 03/01/2025): novas estimativas IPEA de pobreza e baixa renda para o Cadastro Único — 27,4 milhões de famílias em baixa renda (renda familiar mensal per capita de até ½ salário mínimo ao longo de 24 meses) e 20,6 milhões de famílias pobres/vulneráveis. Usado como confronto de ordem de grandeza da elegibilidade legal do cashback (LC 214, arts. 112-118) medida na POF 2017-2018 (pof_elegiveis_legal_uf.csv). Conceitos NÃO são comparáveis um-a-um: renda do CadÚnico é declarada, monetária e sujeita ao critério de permanência de 24 meses; RENDA_TOTAL da POF inclui rendimentos não monetários e variação patrimonial (Dicionário de Variáveis, aba Morador).",
+ "origem": "arquivo público (boletim distribuído pelo MDS por lista informebolsaecadastro@mds.gov.br e publicado nos canais do Cadastro Único) obtido em 2026; o PDF não imprime URL de distribuição e o painel CECAD/VisData (aplicacoes.mds.gov.br) exige navegador — DILIGÊNCIA: registrar URL estável do informe quando localizada",
+ "url": null
+}

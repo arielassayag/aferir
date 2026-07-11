@@ -1,0 +1,14 @@
+{
+ "arquivos": {
+  "nivel_68_2010_2021_xls.zip": {
+   "bytes": 1844097,
+   "collected_at": "2026-07-11T23:52:15.185021+00:00",
+   "origem": "cache_local",
+   "pagina_institucional": "https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9052-sistema-de-contas-nacionais-brasil.html — Tabelas de Recursos e Usos, nível 68, 2010-2021 (nivel_68_2010_2021_xls.zip)",
+   "sha256": "bce3e745591015ec0f4943851400b37f590950064be1456cab38e62ea3a0582c",
+   "url": "https://ftp.ibge.gov.br/Contas_Nacionais/Sistema_de_Contas_Nacionais/2021/tabelas_xls/tabelas_de_recursos_e_usos/nivel_68_2010_2021_xls.zip"
+  }
+ },
+ "dominio": "sidra",
+ "fonte": "FTP público do IBGE (dados abertos, sem credencial)"
+}

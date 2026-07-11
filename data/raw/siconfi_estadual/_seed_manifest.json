@@ -1,0 +1,272 @@
+{
+ "dca_AC_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_AC_2024.parquet",
+  "sha256": "fde079df481b471bf6c9ea3b9ec834f087a7de3ec52a9a4dd83c56c0adf71c26"
+ },
+ "dca_AC_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_AC_2025.parquet",
+  "sha256": "f840a419a0b8303e72994756fc383a16c320f06471e14a15799b64ef29608084"
+ },
+ "dca_AL_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_AL_2024.parquet",
+  "sha256": "87a3217a0bd1dbafee617ec7b651c9b9ece4b30a8fd2c1ddd4bf9485aca61eb4"
+ },
+ "dca_AL_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_AL_2025.parquet",
+  "sha256": "9a5d190f11bede3f22d2e3c7ec22a54dbc9682eb0edb7912797c08ced1e21bda"
+ },
+ "dca_AM_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_AM_2024.parquet",
+  "sha256": "94a141ea350cf89c1fdfe5c7672434cb22846155d8a747538467838348008ec8"
+ },
+ "dca_AM_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_AM_2025.parquet",
+  "sha256": "85cb5d89f784ccc1848efc2d80a26a64ebd6cdf7c455613d247b922ae09a3ada"
+ },
+ "dca_AP_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_AP_2024.parquet",
+  "sha256": "6af7d694b6a0ba98dab55468dc7124dabdd1c678e37b58e75d6c97d6b9e7c970"
+ },
+ "dca_AP_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_AP_2025.parquet",
+  "sha256": "26a56355e2d5926694c71ab42829b3a3e35cc9475c5ec5abfc7c50890666e53a"
+ },
+ "dca_BA_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_BA_2024.parquet",
+  "sha256": "9426fd1c07198a139170fa184f978856dbbdc042fb5781e28f7596f00daf57ba"
+ },
+ "dca_BA_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_BA_2025.parquet",
+  "sha256": "5aaf108e58b5a8a3cb606ad31ffbfd1d456cc9aa88ae49ac3a69bc4e421328eb"
+ },
+ "dca_CE_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_CE_2024.parquet",
+  "sha256": "a941e24855449202e85770ada3099c0ac9f4ca7ae0bf15b475d662cbb6c1bd01"
+ },
+ "dca_CE_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_CE_2025.parquet",
+  "sha256": "fdbacd627746cd85afd9eb0c6720dbb14081f2c8d89660143321aa5dcb1fade8"
+ },
+ "dca_DF_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_DF_2024.parquet",
+  "sha256": "599d6cb5948315f14a95962d617d18a1716ce6170605c4c397461e5cde22ca6b"
+ },
+ "dca_DF_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_DF_2025.parquet",
+  "sha256": "a266a647b02546c6ed6f44d34731d4b9af783f3e9e392939f321fbfb3e1b4da7"
+ },
+ "dca_ES_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_ES_2024.parquet",
+  "sha256": "42aa9cfe84c63d74735e4a69c3ba76289ea5754f4a410ff5202fa270498a01da"
+ },
+ "dca_ES_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_ES_2025.parquet",
+  "sha256": "dafa048e2472fd42fe7f899a7f6ac7c30be49986d3d415ae8e6cf92a39e305c7"
+ },
+ "dca_GO_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_GO_2024.parquet",
+  "sha256": "d28c8a09e2120deb4f98a9540b3248b203008b151d6efb96d404118025de0e6c"
+ },
+ "dca_GO_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_GO_2025.parquet",
+  "sha256": "2f42e3bc9d7ec53fffc8cf5d821b94246ed127b1c1dff2b3c3f01dd63638d2bd"
+ },
+ "dca_MA_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_MA_2024.parquet",
+  "sha256": "e0626080addf2a57b395c206895a4891fc78fd63de66c3422eb87b3e7586c420"
+ },
+ "dca_MA_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_MA_2025.parquet",
+  "sha256": "ee759de77dbafd3d8338d1a116d839d13cd0f309c781ca58d68504c69051a7df"
+ },
+ "dca_MG_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_MG_2024.parquet",
+  "sha256": "daa2e4420474a9aecd93b62fa1814e6a9bc65e6927a1b145c3fe4ebaeeeb404e"
+ },
+ "dca_MG_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_MG_2025.parquet",
+  "sha256": "9bdafb7a22612cfab315eea563deb33679a7c1a299ed90e7ea1fa0574dff3cae"
+ },
+ "dca_MS_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_MS_2024.parquet",
+  "sha256": "1c4e55637c35375b8795d1bf12271396de74efc08eb853cd388b2af06498f0d6"
+ },
+ "dca_MS_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_MS_2025.parquet",
+  "sha256": "aa7c62c66cff44d24abcc281cde7930996a8d63571cecf7fbb5cc62be6999461"
+ },
+ "dca_MT_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_MT_2024.parquet",
+  "sha256": "0c5624244aaf24eb2a6e910a42387d17f718141184e54f0f2312e4aabfb7049f"
+ },
+ "dca_MT_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_MT_2025.parquet",
+  "sha256": "e34a567b8d51a2dc70e6f57594a09b6235911e3d19230bf7929d7c974af562c7"
+ },
+ "dca_PA_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PA_2024.parquet",
+  "sha256": "f6b13f9ed752f445cef54056f36eec52b571b809300875510c8eef0ac5fbdee2"
+ },
+ "dca_PA_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PA_2025.parquet",
+  "sha256": "ab54752eccad182d95edf6e30341c266ffae0bf042746d53f81695dfbf3f5c5d"
+ },
+ "dca_PB_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PB_2024.parquet",
+  "sha256": "9a59aa0ed7f1acc302f31468f3ed0e1bbd3632757ccabf2aed361ecd603b080a"
+ },
+ "dca_PB_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PB_2025.parquet",
+  "sha256": "972246a4e89d6554d5e9584c60d0795090474afe909aa257f7411a1ec408064c"
+ },
+ "dca_PE_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PE_2024.parquet",
+  "sha256": "e2c814235a4a1481358046c968a0314c4b27c7387101d40b0361500c941fb4fb"
+ },
+ "dca_PE_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PE_2025.parquet",
+  "sha256": "493ab8d2723ae725057cc4782d80fba093982be5d1d2960b9dcddc3c666882a0"
+ },
+ "dca_PI_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PI_2024.parquet",
+  "sha256": "8e5212fa11eb6047ce666c59912fdacf41f0cde336b04d5669c8b129da06c16c"
+ },
+ "dca_PI_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PI_2025.parquet",
+  "sha256": "e2827e85c5d9f8f63cf2f4dc5175074c1edb36ef818f5b4d9ce0aa04ed0977a4"
+ },
+ "dca_PR_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PR_2024.parquet",
+  "sha256": "4bddf9ac4d4464688818a197529f139f6436ec8694f07a2e8f62213803c86f1c"
+ },
+ "dca_PR_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_PR_2025.parquet",
+  "sha256": "3c0d0a11679c7077ea7c34956059607b119497a067e7d19adf244d1977ea84ac"
+ },
+ "dca_RJ_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RJ_2024.parquet",
+  "sha256": "8ea5f6bf1d989b54b440ffc32cbfa54c54d95da6ffc0b5f938781a0d3617f347"
+ },
+ "dca_RJ_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RJ_2025.parquet",
+  "sha256": "bbdad9ea2eebf75cae0e0591ae13f86fee2d07d747968d936e1ce442615c5639"
+ },
+ "dca_RN_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RN_2024.parquet",
+  "sha256": "ca8bc167303c32700a1467bbf845e2c5a6be52f35000bb36ffa2787ed2e736b0"
+ },
+ "dca_RN_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RN_2025.parquet",
+  "sha256": "28a961fe50ebfb97ef6d6426ab155f3ea686f3eda1db720da95fd691f41642b4"
+ },
+ "dca_RO_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RO_2024.parquet",
+  "sha256": "11b362765e45020d0f66cba3937c4ab55259be15c0567095cda1b5902ff7617d"
+ },
+ "dca_RO_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RO_2025.parquet",
+  "sha256": "392e57f520335c9e88131c3923c44e579a9623860e6a27fffae5c6ee1592ce6b"
+ },
+ "dca_RR_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RR_2024.parquet",
+  "sha256": "466b0d8a5b634d6c02043cf6e7dd2caca7af728488b25854ed360e18e9d6ad56"
+ },
+ "dca_RR_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RR_2025.parquet",
+  "sha256": "7591d704e81137ffff7bb10e0677380b9dbce01ee4f5e8d33bdb40769b773618"
+ },
+ "dca_RS_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RS_2024.parquet",
+  "sha256": "82f2da5a9945224c003ce48c2b629712f431118fb4a401e4a563961c031b3e4b"
+ },
+ "dca_RS_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_RS_2025.parquet",
+  "sha256": "4841afbad51597424b982a73ca56e184b5e7a84da4705bf8b34c003f07c14eaf"
+ },
+ "dca_SC_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_SC_2024.parquet",
+  "sha256": "6c84c41bc5f71d2c53b0414b2ff1e11aa544a43793fb07214e89e469699e3c17"
+ },
+ "dca_SC_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_SC_2025.parquet",
+  "sha256": "8a1c515a88dafacafbc42c3be2d65a5c30d787de3afb9678d0035a9073bd6b1f"
+ },
+ "dca_SE_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_SE_2024.parquet",
+  "sha256": "963887bd5cfba508d9548c38e6afb4338ce5e22f014d82ed3c4a316d07dcd16e"
+ },
+ "dca_SE_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_SE_2025.parquet",
+  "sha256": "d7fb78a5f003297878de5eaf3b3cbe6f1a0bb6adaa29af772fc0f6a9bad8e636"
+ },
+ "dca_SP_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_SP_2024.parquet",
+  "sha256": "e63caf7fa80678d870f84aefbf926a47b1d61a698134b04d7d0a8a439e00103d"
+ },
+ "dca_SP_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_SP_2025.parquet",
+  "sha256": "132ce114f9d45595480d4d8df154e10dbd033d541283d107d772e038e3921509"
+ },
+ "dca_TO_2024.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_TO_2024.parquet",
+  "sha256": "2b0b168c49456157ffa9cd066ecddb8d8ff6fa49a2533696cfc37e36d6a98e57"
+ },
+ "dca_TO_2025.parquet": {
+  "fonte": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio=<ano>&id_ente=<cod_uf> (API pública SICONFI, sem credencial)",
+  "path": "data/raw/siconfi_estadual/dca_TO_2025.parquet",
+  "sha256": "ae25f831a8b7e871e33266938d33bde948d01bc878ae95e97018dfd4a5db52ed"
+ }
+}

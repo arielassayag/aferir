@@ -1,0 +1,5 @@
+gamma,cenario_gamma,psi,modo_redutor,is_cenario,ancora_federal,tau_CBS_pp,tau_E_pp,tau_M_pp,soma_pp,sigma_pp,formula,fonte
+0.1,factivel,0.0,iso_carga,proxy_ipi_rfb,liquida_rtn,13.15494989319251,15.702347474948242,2.7718832164708047,31.62918058461156,8.23385030098401,sistema arts. 350-369 + 472-473 (rates.py),AFERIR — ver MANIFEST_RUN.json
+0.125,central,0.0,iso_carga,proxy_ipi_rfb,liquida_rtn,13.530805604426579,16.150985974232473,2.8510798797985415,32.5328714584576,8.23385030098401,sistema arts. 350-369 + 472-473 (rates.py),AFERIR — ver MANIFEST_RUN.json
+0.15,conservador,0.0,iso_carga,proxy_ipi_rfb,liquida_rtn,13.928770475145008,16.6260149734746,2.934935170380851,33.489720619000465,8.23385030098401,sistema arts. 350-369 + 472-473 (rates.py),AFERIR — ver MANIFEST_RUN.json
+0.2,estresse,0.0,iso_carga,proxy_ipi_rfb,liquida_rtn,14.799318629841574,17.665140909316765,3.1183686185296544,35.582828157688,8.23385030098401,sistema arts. 350-369 + 472-473 (rates.py),AFERIR — ver MANIFEST_RUN.json

@@ -1,0 +1,9 @@
+{
+ "bytes": 40224,
+ "collected_at": "2026-07-12T19:36:29.431009+00:00",
+ "nota": "preço de referência por CAMPO produtor (não por UF) — o pareamento campo→UF é etapa de processamento; XLSX mensal oficial",
+ "origem": "download",
+ "sha256": "25c072e486cb1f18c3843a9314e4015b8b82b3960e677b191b24dce07a3938b7",
+ "status_http": 200,
+ "url": "https://www.gov.br/anp/pt-br/assuntos/royalties-e-outras-participacoes/arq-royalties/prg/lista/2025/preco-referencia-gn-03.xlsx"
+}

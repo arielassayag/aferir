@@ -1,0 +1,12 @@
+{
+ "url": "https://dados.gov.br/dados/conjuntos-dados/boletim-de-arrecadacao-dos-tributos-estaduais",
+ "pagina": "https://www.confaz.fazenda.gov.br/boletim-de-arrecadacao-dos-tributos-estaduais",
+ "sha256": "61f328b1597151a579f324281b2a1c29d61d57d8ee5db71a5074fdd12bab3197",
+ "bytes": 3250100,
+ "origem": "interface_manual",
+ "descricao": "CONFAZ, Boletim de Arrecadação dos Tributos Estaduais — XLSX obtido MANUALMENTE pela interface do dados.gov.br (conjunto 'boletim-de-arrecadacao-dos-tributos-estaduais'). Aba 'arrecadação por CNAE': 27 UFs × meses 2024-01 a 2026-06, ICMS por Seção/Divisão CNAE do RECOLHEDOR + IPVA/ITCMD/Taxas/Outras + dívidas ativas (DAIC/DAIP/DAIT). Cabeçalho da aba declara 'Dados de 01/2024 a 06/2026 com pendencias. Extração 23/06/2026 ás 14h' — vintage COM PENDÊNCIAS (meses com carga incompleta, p.ex. SC dez/2024 e jan-jul-out/2025). Aba 'arrecadacao por setor': série legada 1997-2023 (fora da janela 2024-2025), única com coluna va_icms_combustiveis.",
+ "extracao_painel": "2026-06-23T14:00 (data literal do cabeçalho da aba 'arrecadação por CNAE')",
+ "nota_coleta": "collected_at = mtime do arquivo salvo manualmente no repositório; a vintage dos DADOS é a data de extração do cabeçalho (23/06/2026)",
+ "collected_at": "2026-07-13T08:03:14-03:00",
+ "nota_sem_fetcher": "NÃO há fetcher de rede para esta fonte (protocolo §10.4, make fetch-manual): o painel público (Power BI embed) não expõe export estável e a API CKAN do dados.gov.br passou a exigir autenticação (HTTP 401 verificado em 2026-07-12, diligência F1). Atualização exige repetir a rota manual pela interface e congelar novo arquivo com novo sidecar."
+}

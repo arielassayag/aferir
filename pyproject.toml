@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aferir"
+version = "0.1.0"
+description = "AFERIR — Alíquotas Federativas de Referência sob Insumos Replicáveis (CBS + IBS estadual + IBS municipal, dados abertos)"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "requests>=2.31",
+    "pyarrow>=15",
+    "matplotlib>=3.8",
+    "python-docx>=1.1",
+    "openpyxl>=3.1",
+    "xlrd>=2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+fontes = ["fonttools>=4.44"]   # tools/extrai_fontes.py (macOS, opcional)
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+markers = [
+    "network: exige rede (fetchers); excluir com -m 'not network'",
+]

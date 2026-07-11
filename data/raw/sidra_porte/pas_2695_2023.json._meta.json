@@ -1,0 +1,15 @@
+{
+ "bytes": 2394,
+ "collected_at": "2026-07-12T19:34:15.707676+00:00",
+ "origem": "download",
+ "parametros": {
+  "c12362": "all",
+  "nivel": "n1",
+  "periodo": 2023,
+  "tabela": 2695,
+  "variavel": 643
+ },
+ "sha256": "ccafc5fa8a7aeccc8cacfe5d5e5df63a4b00d7871a4b9f6a8b87e64372ceb3e3",
+ "status_http": 200,
+ "url": "https://apisidra.ibge.gov.br/values/t/2695/n1/all/v/643/p/2023/c12362/all?formato=json"
+}

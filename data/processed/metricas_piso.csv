@@ -1,0 +1,9 @@
+chave,valor,formula,fonte
+piso_E_pp,14.616642306680388,"0,905 × τ_E de referência (central B)","LC 214/2025, art. 371 + Anexo XVI; vetores: aferir_vetor_uf.csv; referências: aferir_nacional.csv / trava_conforme.csv"
+piso_M_pp,2.58022729121768,"0,905 × τ_M de referência (central B)","LC 214/2025, art. 371 + Anexo XVI; vetores: aferir_vetor_uf.csv; referências: aferir_nacional.csv / trava_conforme.csv"
+n_piso_vinc_E,6.0,"nº de UFs com τ_E indicativo < piso (central B): AP, DF, PR, RN, RS, SE","LC 214/2025, art. 371 + Anexo XVI; vetores: aferir_vetor_uf.csv; referências: aferir_nacional.csv / trava_conforme.csv"
+n_piso_vinc_M,21.0,nº de agregados municipais com τ_M indicativo < piso (central B),"LC 214/2025, art. 371 + Anexo XVI; vetores: aferir_vetor_uf.csv; referências: aferir_nacional.csv / trava_conforme.csv"
+piso_E_trava_pp,11.905224220131563,"0,905 × τ_E trava-conforme","LC 214/2025, art. 371 + Anexo XVI; vetores: aferir_vetor_uf.csv; referências: aferir_nacional.csv / trava_conforme.csv"
+piso_M_trava_pp,2.1015896671980365,"0,905 × τ_M trava-conforme","LC 214/2025, art. 371 + Anexo XVI; vetores: aferir_vetor_uf.csv; referências: aferir_nacional.csv / trava_conforme.csv"
+n_piso_vinc_E_trava,3.0,nº de UFs com τ_E indicativo < piso sob a referência trava-conforme,"LC 214/2025, art. 371 + Anexo XVI; vetores: aferir_vetor_uf.csv; referências: aferir_nacional.csv / trava_conforme.csv"
+n_piso_vinc_M_trava,18.0,nº de agregados municipais < piso sob a referência trava-conforme,"LC 214/2025, art. 371 + Anexo XVI; vetores: aferir_vetor_uf.csv; referências: aferir_nacional.csv / trava_conforme.csv"

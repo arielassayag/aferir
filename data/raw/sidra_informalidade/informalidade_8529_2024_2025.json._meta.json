@@ -1,0 +1,24 @@
+{
+ "bytes": 56421,
+ "collected_at": "2026-07-12T19:34:16.162010+00:00",
+ "nota_fonte_viva": "reponderações da PNAD Contínua (ex.: NT 02/2025) reatualizam trimestres já publicados; vintage congelada pela existência do arquivo",
+ "origem": "download",
+ "parametros": {
+  "nivel": "n3",
+  "periodos": [
+   "202401",
+   "202402",
+   "202403",
+   "202404",
+   "202501",
+   "202502",
+   "202503",
+   "202504"
+  ],
+  "tabela": 8529,
+  "variavel": 12466
+ },
+ "sha256": "a6de4af3aa45e8788cc5563f6700eac506e873e210ec7c4d67a1f22067ef9a82",
+ "status_http": 200,
+ "url": "https://apisidra.ibge.gov.br/values/t/8529/n3/all/v/12466/p/202401-202504?formato=json"
+}

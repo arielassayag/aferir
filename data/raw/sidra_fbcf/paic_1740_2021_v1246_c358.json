@@ -1,0 +1,2895 @@
+[
+ {
+  "id": "1246",
+  "resultados": [
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8308": "Total"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "270350356"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8309": "4110 Incorporação de empreendimentos imobiliários"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "8530629"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8310": "4110.2010 Incorporação de imóveis construídos por outras empresa"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "8530629"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8311": "4120 Construção de edifícios"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "98002943"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8312": "4120.2010 Edifícios comerciais (shoppings, supermercados, lojas, etc)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "15341091"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8313": "4120.2020 Edifícios industriais (fábricas, oficinas, galpões industriais, etc)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "6444450"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8314": "4120.2030 Edifícios não-residenciais não especificados anteriormente (hospitais, escolas, hotéis, garagens, instalações esportivas e recreativas cobertas, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "7110627"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8315": "4120.2040 Edifícios residenciais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "52990338"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8316": "4120.2050 Estações e terminais para passageiros e cargas (rodoviárias, aeroportos, portos, estações de metrô e trens, terminais de logística, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "746652"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8317": "4120.9010 Serviços de montagem de edifícios não-residenciais pré-fabricados, quando executados por unidades especializadas; exceto pelo fabricante"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "361399"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8318": "4120.9020 Serviços de montagem de edifícios residenciais pré-fabricados, quando executados por unidades especializadas; exceto pelo fabricante"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "73861"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8319": "4120.9030 Serviços de reforma ou manutenção de edifícios não-residenciais (acréscimos, alterações e obras de renovação)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "5789963"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8320": "4120.9040 Serviços de reforma ou manutenção de edifícios residenciais (acréscimos, alterações e obras de renovação)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "9144562"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8321": "4211 Construção de rodovias e ferrovias"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "36748797"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8322": "4211.2010 Instalação de sinalização não-elétrica em rodovias, ferrovias e pistas de aeroportos"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1644847"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8323": "4211.2020 Pavimentação de rodovias, auto-estradas e outras vias não-urbanas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "19783457"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8324": "4211.2030 Pistas de aeroportos"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "12366"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8325": "4211.2040 Rodovias, auto-estradas e outras vias não-urbanas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "5394155"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8326": "4211.2050 Vias férreas e metropolitanos"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3824838"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8327": "4211.9010 Serviços de recuperação ou reforma de ferrovias (p. ex. adequação de bitola, modernização do traçado, incorporação de equipamentos de segurança)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1183007"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8328": "4211.9020 Serviços de recuperação ou reforma de pistas de aeroportos (p. ex. ampliação e modernização das pistas, incorporação de equipamentos de segurança)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "33521"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8329": "4211.9030 Serviços de recuperação ou reforma de rodovias (p. ex. duplicação, ampliação de faixas, redefinição/modernização do traçado, colocação de barreiras de segurança)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "4872606"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8330": "4212 Construção de obras de arte especiais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3443062"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8331": "4212.2010 Pontes, elevados, túneis e outras obras-de-arte especiais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2670077"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8332": "4212.9010 Seviços de recuperação ou reforma de pontes, elevados, túneis e outras obras de arte especiais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "772985"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8333": "4213 Obras de urbanização - ruas, praças e calçadas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "6818298"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8334": "4213.2010 Instalação de sinalização não-elétrica em vias urbanas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "42933"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8335": "4213.2020 Ruas, praças, calçadas e outras obras de urbanização"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3549231"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8336": "4213.9010 Serviços de recuperação de ruas, praças, calçadas e outras obras de urbanização"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3226134"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8337": "4221 Obras para geração e distribuição de energia elétrica e para telecomunicações"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "28488909"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8338": "4221.2010 Barragens ou represas para geração de energia elétrica"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "522411"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8339": "4221.2020 Redes de transmissão e distribuição de energia elétrica"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "9732951"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8340": "4221.2030 Redes de longa ou média distâncias de telecomunicações; inclusive instalações para estações de telefonia e centrais telefônicas e torres de telecomunicações"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2030616"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8341": "4221.2040 Usinas para a geração energia elétrica (hidrelétrica, termelétrica, nuclear, solar fotovoltaica e eólica); inclusive estações e subestações para transmissão e distribuição de energia elétrica"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2470427"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8342": "4221.9010 Serviços de manutenção de barragens, represas, usinas e outras obras para geração de energia elétrica"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "624908"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8343": "4221.9020 Serviços de manutenção de redes de longa ou média distâncias de telecomunicações; instalações para estações de telefonia e centrais telefônicas, inclusive torres de telecomunicações"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "7400118"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8344": "4221.9030 Serviços de manutenção de redes de transmissão e distribuição de energia elétrica"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "5707478"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8345": "4222 Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "7522905"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8346": "4222.2010 Obras de irrigação (barragens, canais, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "879036"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8347": "4222.2020 Redes de distribuição de água"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "..."
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "50576": "4222.2025 Dutos de longa e de média distância para o transporte de água tratada; inclusive redes e reservatórios para distribuição, estações de tratamento (ETA) e de bombeamento (elevatórias) de água tratada"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2235922"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8348": "4222.2030 Redes de esgotos, interceptores, estações de tratamento ou galerias pluviais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "..."
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "50577": "4222.2035 Dutos e redes terrestres para a coleta de esgoto; inclusive interceptores, estações de tratamento (ETE) e bombeamento (elevatórias) de esgoto e galerias pluviais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2997077"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8349": "4222.9010 Serviços de manutenção de sistemas para abastecimento de água tratada"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "511271"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8350": "4222.9020 Serviços de manutenção de sistemas terrestres para coleta e tratamento esgoto; inclusive de galerias pluviais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "899599"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8351": "4223 Construção de redes de transportes por duto, exceto para água e esgoto"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1165625"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8352": "4223.2010 Dutos para o transporte de derivados de petróleo, gás e de mineração (oleodutos, gasodutos, minerodutos, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "879867"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8353": "4223.9010 Serviços de manutenção de dutos para o transporte de derivados de petróleo, gás e de mineração (oleodutos, gasodutos, minerodutos, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "285758"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8354": "4291 Obras portuárias, marítimas e fluviais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2280156"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8355": "4291.2010 Dragagem e aterro hidráulico"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "686974"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8356": "4291.2020 Instalação de cabos submarinos"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "-"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8357": "4291.2030 Obras marítimas e fluviais (portos, marinas, diques, eclusas, etc.); inclusive emissários submarinos para lançamento de efluentes no mar"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1239725"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "12900": "4291.9010 Serviço de manutenção de obras marítimas e fluviais (portos, marinas, diques, eclusas, etc.); inclusive emissários submarinos para lançamento de efluentes no mar"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "353457"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8358": "4292 Montagem de instalações industriais e de estruturas metálicas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "11326909"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8359": "4292.2010 Montagem de estruturas metálicas permanentes; exceto quando realizada por unidade fabricante"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3917135"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8360": "4292.2020 Obras de instalações industriais para fins de mineração; exceto a perfuração ou escavação de minas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1835665"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8361": "4292.2030 Plantas e instalações industriais (tubulações, redes de facilidades, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "5574109"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "49368": "4292.9010 Serviço de manutenção de estruturas metálicas permanentes e de plantas e instalações industriais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "-"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8362": "4299 Obras de engenharia civil não especificadas anteriormente"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "12576353"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8363": "4299.2010 Instalações esportivas e recreativas ao ar livre, tais como quadras de futebol, pistas de atletismo, pistas de corridas (carros, bicicletas, cavalos, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "200366"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8364": "4299.2020 Obras de engenharia civil, não especificadas, inclusive loteamento (subdivisão de terras) com execução de benfeitorias"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "8638637"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8365": "4299.9010 Serviços de recuperação de obras de engenharia civil não especificadas anteriormente"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3737350"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8366": "4311 Demolição e preparação de canteiros de obras"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1304144"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8367": "4311.2010 Demolição de edifícios e outras estruturas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "608054"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8368": "4311.2020 Preparação de canteiros de obras"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "661965"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8369": "4311.9010 Serviços de aluguel e operação de equipamentos de demolição"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "34125"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8370": "4312 Perfurações e sondagens"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1912735"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8371": "4312.2010 Perfurações e sondagens, para fins de construção"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1912735"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8372": "4313 Obras de terraplenagem"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "8944342"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8373": "4313.2010 Derrocamentos"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "228162"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8374": "4313.2020 Escavação e movimentação de terras - terraplenagem"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "8180434"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8375": "4313.9010 Serviços de aluguel e operação de equipamentos de terraplanagem"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "535746"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8376": "4319 Serviços de preparação do terreno não especificados anteriormente"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "534377"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8377": "4319.2010 Drenagem"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "233217"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8378": "4319.2020 Rebaixamento de lençol freático"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "13478"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8379": "4319.2030 Outros tipos de preparações de terreno não especificadas anteriormente; exceto terraplenagem e loteamentos com benfeitorias"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "287682"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8380": "4321 Instalações elétricas"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "11712498"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8381": "4321.2010 Instalações elétricas (sistemas de alarmes contra incêndio e roubo, antenas coletivas e parabólicas, cabeamento para instalações elétricas, pára-raios, automação predial, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "6371716"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8382": "4321.2020 Instalações de telecomunicações (cabeamento para telecomunicações, incluindo cabos de fibra ótica)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "742801"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8383": "4321.9010 Serviços de manutenção e reparação de instalações elétricas (sistemas de alarmes contra incêndio e roubo, antenas coletivas e parabólicas, cabeamento para instalações elétricas, pára-raios, automação predial, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3753150"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8384": "4321.9020 Serviços de manutenção e reparação de instalações de telecomunicações (cabeamento para telecomunicações, incluindo cabos de fibra ótica)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "844831"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8385": "4322 Instalações hidráulicas, de sistemas de ventilação e refrigeração"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "4353058"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8386": "4322.2010 Instalações de sistemas de ar condicionado, ventilação, refrigeração ou aquecimento"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2018172"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8387": "4322.2020 Instalações hidráulicas, sanitárias ou de gás"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1105572"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8388": "4322.9010 Serviços de manutenção e reparação de sistemas de ventilação,refrigeração, aquecimento; de instalações hidráulicas e de gás"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1229314"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8389": "4329 Obras de instalações em construções não especificadas anteriormente"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3898810"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8390": "4329.2010 Instalação de elevadores, escadas ou de esteiras rolantes; exceto quando executada por unidade fabricante"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1226773"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8391": "4329.2020 Instalação de isolamentos térmicos e acústicos"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "703827"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8392": "4329.2030 Instalação de sistema de iluminação ou de sinalização elétrica em vias públicas, rodovias, portos ou aeroportos"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1007721"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8393": "4329.2040 Instalações em construções, não especificadas anteriormente (painéis publicitários, equipamentos para orientação à navegação marítima fluvial e lacustre, sistemas de limpeza por vácuo, etc.)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "960489"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "49374": "4329.9010 Serviço de manutenção de elevadores, escadas ou de esteiras rolantes; inclusive quando prestados por unidades de assistência técnica especializada do fabricante"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "-"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8394": "4330 Obras de acabamento"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "3559293"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8395": "4330.2010 Acabamento em gesso ou estuque"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "432680"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8396": "4330.2020 Impermeabilização em paredes, caixas d'água, etc."
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "838166"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8397": "4330.2030 Instalação de cozinhas e outros mobiliários incorporados à construção"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "6934"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8398": "4330.2040 Instalação de esquadrias de metal, madeira ou outros materiais"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "110188"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8399": "4330.2050 Pintura (interna ou externa)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "801192"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8400": "4330.2060 Revestimento de pisos e paredes, exceto pintura"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "155215"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8401": "4330.2070 Trabalhos de madeira em interiores"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "43396"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8402": "4330.2080 Outros serviços de acabamento não especificados anteriormente (instalação de cortinas, toldos, persianas e outros componentes não considerados como parte estrutural do edifício)"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1171522"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8403": "4391 Obras de fundações"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2724562"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8404": "4391.2010 Fundações"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2513635"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8405": "4391.9010 Serviços de aluguel e operação de equipamentos para execução de fundações"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "210927"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8406": "4399 Serviços especializados para construção não especificados anteriormente"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "14501951"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8407": "4399.2010 Administração de obras de construção civil por contrato"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "5926913"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8408": "4399.2020 Alvenaria"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2901056"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8409": "4399.2030 Poços de água"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "629161"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8410": "4399.2040 Montagem e desmontagem de escoramentos, andaimes, arquibancadas e outras estruturas temporárias"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1193465"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8411": "4399.2050 Telhados, coberturas, caixas d'água, churrasqueiras e outras partes de edifícios"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "100803"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8412": "4399.2060 Outros serviços especializados de construção não especificados anteriormente"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "2319549"
+      }
+     }
+    ]
+   },
+   {
+    "classificacoes": [
+     {
+      "categoria": {
+       "8413": "4399.9010 Serviços de aluguel e operação de equipamento para transporte e elevação de cargas e pessoas para uso em obras"
+      },
+      "id": "358",
+      "nome": "Classes de atividades e descrição de produtos da construção"
+     }
+    ],
+    "series": [
+     {
+      "localidade": {
+       "id": "1",
+       "nivel": {
+        "id": "N1",
+        "nome": "Brasil"
+       },
+       "nome": "Brasil"
+      },
+      "serie": {
+       "2021": "1431004"
+      }
+     }
+    ]
+   }
+  ],
+  "unidade": "Mil Reais",
+  "variavel": "Valor total das obras e/ou serviços da construção"
+ }
+]

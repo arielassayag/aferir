@@ -1,0 +1,7 @@
+# Snapshot arquivistico da subamostra municipal (14.192 DCAs, 2019-2023).
+# Remontagem: cat subamostra_dca_municipal_2019-2023.tar.gz.parte-* > tar.gz
+# (aferir.fetch.siconfi_municipal_dca faz isso automaticamente)
+95c4da89bf531040bd985d08439c49df6ca7af0c9a15c0cab4157574663f57fe  subamostra_dca_municipal_2019-2023.tar.gz
+f9301d1335ebdd30a45cbfabddf0b2a5ef29719bc1446b6e545819182de73b2e  subamostra_dca_municipal_2019-2023.tar.gz.parte-aa
+cef3df021ce5f061059d829fb92ba93d005b3899b92b8301b49191eb8c89a375  subamostra_dca_municipal_2019-2023.tar.gz.parte-ab
+f666575e9c0e2c6e36a7eeec84bef178b64731af2653770c4e85c79df3194d57  subamostra_dca_municipal_2019-2023.tar.gz.parte-ac

@@ -1,0 +1,68 @@
+{
+  "baseline_run_id": "20d6e32b5abdba9b6995a19ffcaeb8fd9e2cd919",
+  "data_congelamento": "2026-07-12",
+  "finalidade": "Onda 0 do superdocumento de revisao — linha de base para diff automatizado de todas as correcoes A1-A9/E1-E10/L1-L7",
+  "sha256_manifest_run": "2fe202fb36b14a58a77377002540afc2d1515ac6dac49799dfb79e468e7ea4c2",
+  "sha256_manifest_trava": "b1b590cd3d5337a12eb2ebfbaf4f59aa5cec4556d187b844aaafcfb0baefee82",
+  "manchete_central_B": {
+    "tau_CBS_pp": "12.784657341370112",
+    "tau_E_pp": "15.524382608748938",
+    "tau_M_pp": "2.7477658137244347",
+    "soma_pp": "31.056805763843485",
+    "sigma_pp": "8.23385030098401"
+  },
+  "construcao_A_somas": {
+    "ancora_legal_2012_2021": "28.042012231142856",
+    "meta_pldo_4_47": "26.62818927423228"
+  },
+  "metricas_chave": {
+    "mediana_tau_E_uf": "16.288456940277857",
+    "mediana_tau_M_uf": "1.6773265501107106",
+    "n_uf_acima_ref_E": "15.0",
+    "cobertura_dca_2024": "99.25000000000001",
+    "g_municipal_janela": "346.90471630631515",
+    "is_estimado_bi": "17.600147300803357",
+    "pi_p_nacional": "0.2504676207974756"
+  },
+  "trava_conforme_amostra": [
+    {
+      "gamma": "0.1",
+      "cenario_gamma": "factivel",
+      "lambda": "0.4351468086242676",
+      "tau_CBS_pp": "10.909621202009932",
+      "tau_E_pp": "13.245898605210545",
+      "tau_M_pp": "2.3444814700035796",
+      "soma_pp": "26.500001277224055",
+      "pi_p_pos_lambda": "0.14147743494374082",
+      "custo_beneficios_rs_bi": "161.4130209887178",
+      "formula": "m_i(λ)=m_i+λ·(1−m_i) i∉F; zfm(λ)=zfm·(1−λ); cashback recomputado; λ*: Σ_s τ_s(λ*)=26,5% (bisseção em [0;1], tol 1e-6); custo=Σ_s τ_s(λ*)·[D_s(λ*)−D_s(0)]",
+      "fonte": "LC 214/2025, art. 475, §§10-11; matriz_pof_ibs_v5.csv × POF; construção B (ψ=0, iso-carga) — AFERIR"
+    },
+    {
+      "gamma": "0.125",
+      "cenario_gamma": "central",
+      "lambda": "0.5367674827575684",
+      "tau_CBS_pp": "10.909777031404111",
+      "tau_E_pp": "13.245762706276402",
+      "tau_M_pp": "2.3444574163291256",
+      "soma_pp": "26.499997154009634",
+      "pi_p_pos_lambda": "0.11602474646973746",
+      "custo_beneficios_rs_bi": "193.57729602606173",
+      "formula": "m_i(λ)=m_i+λ·(1−m_i) i∉F; zfm(λ)=zfm·(1−λ); cashback recomputado; λ*: Σ_s τ_s(λ*)=26,5% (bisseção em [0;1], tol 1e-6); custo=Σ_s τ_s(λ*)·[D_s(λ*)−D_s(0)]",
+      "fonte": "LC 214/2025, art. 475, §§10-11; matriz_pof_ibs_v5.csv × POF; construção B (ψ=0, iso-carga) — AFERIR"
+    },
+    {
+      "gamma": "0.15",
+      "cenario_gamma": "conservador",
+      "lambda": "0.6443648338317871",
+      "tau_CBS_pp": "10.90993578914112",
+      "tau_E_pp": "13.245630362957858",
+      "tau_M_pp": "2.3444339919872026",
+      "soma_pp": "26.500000144086183",
+      "pi_p_pos_lambda": "0.0890750939420672",
+      "custo_beneficios_rs_bi": "225.74126516553034",
+      "formula": "m_i(λ)=m_i+λ·(1−m_i) i∉F; zfm(λ)=zfm·(1−λ); cashback recomputado; λ*: Σ_s τ_s(λ*)=26,5% (bisseção em [0;1], tol 1e-6); custo=Σ_s τ_s(λ*)·[D_s(λ*)−D_s(0)]",
+      "fonte": "LC 214/2025, art. 475, §§10-11; matriz_pof_ibs_v5.csv × POF; construção B (ψ=0, iso-carga) — AFERIR"
+    }
+  ]
+}

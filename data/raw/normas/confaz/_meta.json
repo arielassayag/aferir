@@ -1,0 +1,37 @@
+{
+ "arquivos": {
+  "CV015_23.html": {
+   "bytes": 251080,
+   "sha256": "616ce323c63dbcddf135183289461e80d7e27073692add43e854566e198aa0b1",
+   "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV015_23"
+  },
+  "CV126_24.html": {
+   "bytes": 141146,
+   "sha256": "51ddb430e31e52116fe1746c00a738d0c3e268b7b8ba3e11be05dbe88df95e81",
+   "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV126_24"
+  },
+  "CV127_24.html": {
+   "bytes": 141264,
+   "sha256": "07174670e1524d9346def274d736abe6464213a28d5b0ec648805edb23268c92",
+   "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV127_24"
+  },
+  "CV172_23.html": {
+   "bytes": 167855,
+   "sha256": "8841c37a4820519b651295ac0071f9f602fc1d638207403228b7bc333576d47f",
+   "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV172_23"
+  },
+  "CV173_23.html": {
+   "bytes": 167959,
+   "sha256": "c3ee4d805d958845fbfe4d9a39880985f4a55a1953d79e92394647f57932c9f7",
+   "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV173_23"
+  },
+  "CV199_22.html": {
+   "bytes": 274361,
+   "sha256": "f20ab507e3ac54072af5a170283566ee64ea36871920f56ae28b5dc149e40cd7",
+   "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV199_22"
+  }
+ },
+ "collected_at": "2026-07-12T19:30:07.450065+00:00",
+ "fonte": "CONFAZ — convênios ICMS do regime monofásico de combustíveis (LC 192/2022), textos consolidados/originais",
+ "nota": "CV199_22 e CV015_23 são páginas CONSOLIDADAS (trazem todas as redações com vigências anotadas); CV172_23/CV173_23 fixam as alíquotas de 01.02.24 e CV126_24/CV127_24 as de 01.02.25; baixados por HTTP GET simples, sem credencial"
+}

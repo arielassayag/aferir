@@ -1,0 +1,9 @@
+{
+ "bytes": 462779,
+ "collected_at": "2026-07-12T19:36:23.547100+00:00",
+ "nota": "produção mensal por UF e localização (terra/mar), série 1997- corrente; utf-8-sig, sep=';'; fonte viva (arquivo único regravado) — vintage congelada pela existência do arquivo",
+ "origem": "download",
+ "sha256": "3801357f3c71c521a0a02a205dd774d7069b6d036b8afd175fc3bb5cf0053357",
+ "status_http": 200,
+ "url": "https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/ppgn-el/producao-petroleo-m3.csv"
+}

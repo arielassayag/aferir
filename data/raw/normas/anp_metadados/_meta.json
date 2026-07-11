@@ -1,0 +1,17 @@
+{
+ "arquivos": {
+  "anuario-2023-fatores-conversao.pdf": {
+   "bytes": 15982,
+   "sha256": "be44a4b5d3d92fee335b3699c262c1aa5218d2ff3456a56030b9d70598c4cd6b",
+   "url": "https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/anuario-estatistico/arquivos-anuario-estatistico-2023/outras-pecas-documentais/fatores-conversao.pdf"
+  },
+  "metadados-vendas-derivados-petroleo-etanol.pdf": {
+   "bytes": 146654,
+   "sha256": "e64f2cded4d857ddfb5065667db114b5a1fcf4380fd58b986040521289eed8f1",
+   "url": "https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vendas-derivados-petroleo-e-etanol/metadados-vendas-derivados-petroleo-etanol.pdf"
+  }
+ },
+ "collected_at": "2026-07-12T19:30:07.450065+00:00",
+ "fonte": "ANP — metadados oficiais do dado aberto de vendas (unidade m³ p/ TODOS os produtos, incl. GLP) e tabela de fatores de conversão do Anuário Estatístico 2023 (densidade GLP 0,552 t/m³ a 20 °C e 1 atm; fonte EPE/BEN)",
+ "nota": "fundamenta a conversão m³→kg do GLP na dedução ad rem (alíquota CONFAZ em R$/kg)"
+}

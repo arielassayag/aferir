@@ -1,0 +1,11 @@
+chave,valor,formula,fonte
+suf_mediana,97.93313666253475,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+suf_mediana_E,100.97854419039754,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+suf_mediana_M,95.47824030647952,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+suf_min_E,90.63557628007808,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+suf_max_E,114.93319277905027,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+suf_min_M,86.14642233404744,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+n_abaixo_905,5.0,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+n_abaixo_100,34.0,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+n_agregados,54.0,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"
+suf_am_e,114.93319277905027,derivado de distribuicao_2033.csv,"aferir.distribuicao (ADCT 131-132; LC 227 arts. 109-117, 128)"

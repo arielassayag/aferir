@@ -1,0 +1,165 @@
+{
+ "arquivos": {
+  "data/inputs/icms_adrem_vigencias.csv": "113e63baddada9e5591a97b2e0bf03f2a29bcc7d8a8ae3ea115e7b94753a4f00",
+  "data/raw/anp/vendas-combustiveis-m3-1990-2025.csv": "375d7066b4fb2998461c431ef3bc5eec259c30f379d61e7ae96411f14aa5fe69",
+  "data/raw/siconfi_estadual/dca_AC_2024.parquet": "fde079df481b471bf6c9ea3b9ec834f087a7de3ec52a9a4dd83c56c0adf71c26",
+  "data/raw/siconfi_estadual/dca_AC_2025.parquet": "f840a419a0b8303e72994756fc383a16c320f06471e14a15799b64ef29608084",
+  "data/raw/siconfi_estadual/dca_AL_2024.parquet": "87a3217a0bd1dbafee617ec7b651c9b9ece4b30a8fd2c1ddd4bf9485aca61eb4",
+  "data/raw/siconfi_estadual/dca_AL_2025.parquet": "9a5d190f11bede3f22d2e3c7ec22a54dbc9682eb0edb7912797c08ced1e21bda",
+  "data/raw/siconfi_estadual/dca_AM_2024.parquet": "94a141ea350cf89c1fdfe5c7672434cb22846155d8a747538467838348008ec8",
+  "data/raw/siconfi_estadual/dca_AM_2025.parquet": "85cb5d89f784ccc1848efc2d80a26a64ebd6cdf7c455613d247b922ae09a3ada",
+  "data/raw/siconfi_estadual/dca_AP_2024.parquet": "6af7d694b6a0ba98dab55468dc7124dabdd1c678e37b58e75d6c97d6b9e7c970",
+  "data/raw/siconfi_estadual/dca_AP_2025.parquet": "26a56355e2d5926694c71ab42829b3a3e35cc9475c5ec5abfc7c50890666e53a",
+  "data/raw/siconfi_estadual/dca_BA_2024.parquet": "9426fd1c07198a139170fa184f978856dbbdc042fb5781e28f7596f00daf57ba",
+  "data/raw/siconfi_estadual/dca_BA_2025.parquet": "5aaf108e58b5a8a3cb606ad31ffbfd1d456cc9aa88ae49ac3a69bc4e421328eb",
+  "data/raw/siconfi_estadual/dca_CE_2024.parquet": "a941e24855449202e85770ada3099c0ac9f4ca7ae0bf15b475d662cbb6c1bd01",
+  "data/raw/siconfi_estadual/dca_CE_2025.parquet": "fdbacd627746cd85afd9eb0c6720dbb14081f2c8d89660143321aa5dcb1fade8",
+  "data/raw/siconfi_estadual/dca_DF_2024.parquet": "599d6cb5948315f14a95962d617d18a1716ce6170605c4c397461e5cde22ca6b",
+  "data/raw/siconfi_estadual/dca_DF_2025.parquet": "a266a647b02546c6ed6f44d34731d4b9af783f3e9e392939f321fbfb3e1b4da7",
+  "data/raw/siconfi_estadual/dca_ES_2024.parquet": "42aa9cfe84c63d74735e4a69c3ba76289ea5754f4a410ff5202fa270498a01da",
+  "data/raw/siconfi_estadual/dca_ES_2025.parquet": "dafa048e2472fd42fe7f899a7f6ac7c30be49986d3d415ae8e6cf92a39e305c7",
+  "data/raw/siconfi_estadual/dca_GO_2021.parquet": "9b23397e0dee60074b4f3edf2599b921bcf3dbc0401767b5210cdb1a67c2da9c",
+  "data/raw/siconfi_estadual/dca_GO_2022.parquet": "3680bbe8882e12d0412233e1c62fbb124f6845189a063930487e55a14010fbf7",
+  "data/raw/siconfi_estadual/dca_GO_2023.parquet": "49a5d86bd5682505329fc88de5d51f473cc002008320a8aa41d8d3d9be554618",
+  "data/raw/siconfi_estadual/dca_GO_2024.parquet": "d28c8a09e2120deb4f98a9540b3248b203008b151d6efb96d404118025de0e6c",
+  "data/raw/siconfi_estadual/dca_GO_2025.parquet": "2f42e3bc9d7ec53fffc8cf5d821b94246ed127b1c1dff2b3c3f01dd63638d2bd",
+  "data/raw/siconfi_estadual/dca_MA_2024.parquet": "e0626080addf2a57b395c206895a4891fc78fd63de66c3422eb87b3e7586c420",
+  "data/raw/siconfi_estadual/dca_MA_2025.parquet": "ee759de77dbafd3d8338d1a116d839d13cd0f309c781ca58d68504c69051a7df",
+  "data/raw/siconfi_estadual/dca_MG_2024.parquet": "daa2e4420474a9aecd93b62fa1814e6a9bc65e6927a1b145c3fe4ebaeeeb404e",
+  "data/raw/siconfi_estadual/dca_MG_2025.parquet": "9bdafb7a22612cfab315eea563deb33679a7c1a299ed90e7ea1fa0574dff3cae",
+  "data/raw/siconfi_estadual/dca_MS_2021.parquet": "17a67ff0a109f4e98cf006f59feba85cbb0043b2c052d6a7cba2294e1b5aff1a",
+  "data/raw/siconfi_estadual/dca_MS_2022.parquet": "852ab1ed47a9145530135b9f139f1ff2ab318dcd7f03e3ab9f40e9225f61d696",
+  "data/raw/siconfi_estadual/dca_MS_2023.parquet": "c65c819e8ad71d1ea2e3315737145845de4ae981fbcd3e2189126c10fa923a16",
+  "data/raw/siconfi_estadual/dca_MS_2024.parquet": "1c4e55637c35375b8795d1bf12271396de74efc08eb853cd388b2af06498f0d6",
+  "data/raw/siconfi_estadual/dca_MS_2025.parquet": "aa7c62c66cff44d24abcc281cde7930996a8d63571cecf7fbb5cc62be6999461",
+  "data/raw/siconfi_estadual/dca_MT_2021.parquet": "6eeebcff299b0e3c4e490648e019be90fb230460e7771fa419012b0a191bb2b9",
+  "data/raw/siconfi_estadual/dca_MT_2022.parquet": "f4f267cd64e536926e5b36039fa93c598cb040b89af9ef685b82a640469c6712",
+  "data/raw/siconfi_estadual/dca_MT_2023.parquet": "c842241cbbf8a0e4e424f344b78c0243355890786fea144d5daaea23a5dc392b",
+  "data/raw/siconfi_estadual/dca_MT_2024.parquet": "0c5624244aaf24eb2a6e910a42387d17f718141184e54f0f2312e4aabfb7049f",
+  "data/raw/siconfi_estadual/dca_MT_2025.parquet": "e34a567b8d51a2dc70e6f57594a09b6235911e3d19230bf7929d7c974af562c7",
+  "data/raw/siconfi_estadual/dca_PA_2024.parquet": "f6b13f9ed752f445cef54056f36eec52b571b809300875510c8eef0ac5fbdee2",
+  "data/raw/siconfi_estadual/dca_PA_2025.parquet": "ab54752eccad182d95edf6e30341c266ffae0bf042746d53f81695dfbf3f5c5d",
+  "data/raw/siconfi_estadual/dca_PB_2024.parquet": "9a59aa0ed7f1acc302f31468f3ed0e1bbd3632757ccabf2aed361ecd603b080a",
+  "data/raw/siconfi_estadual/dca_PB_2025.parquet": "972246a4e89d6554d5e9584c60d0795090474afe909aa257f7411a1ec408064c",
+  "data/raw/siconfi_estadual/dca_PE_2024.parquet": "e2c814235a4a1481358046c968a0314c4b27c7387101d40b0361500c941fb4fb",
+  "data/raw/siconfi_estadual/dca_PE_2025.parquet": "493ab8d2723ae725057cc4782d80fba093982be5d1d2960b9dcddc3c666882a0",
+  "data/raw/siconfi_estadual/dca_PI_2024.parquet": "8e5212fa11eb6047ce666c59912fdacf41f0cde336b04d5669c8b129da06c16c",
+  "data/raw/siconfi_estadual/dca_PI_2025.parquet": "e2827e85c5d9f8f63cf2f4dc5175074c1edb36ef818f5b4d9ce0aa04ed0977a4",
+  "data/raw/siconfi_estadual/dca_PR_2024.parquet": "4bddf9ac4d4464688818a197529f139f6436ec8694f07a2e8f62213803c86f1c",
+  "data/raw/siconfi_estadual/dca_PR_2025.parquet": "3c0d0a11679c7077ea7c34956059607b119497a067e7d19adf244d1977ea84ac",
+  "data/raw/siconfi_estadual/dca_RJ_2024.parquet": "8ea5f6bf1d989b54b440ffc32cbfa54c54d95da6ffc0b5f938781a0d3617f347",
+  "data/raw/siconfi_estadual/dca_RJ_2025.parquet": "bbdad9ea2eebf75cae0e0591ae13f86fee2d07d747968d936e1ce442615c5639",
+  "data/raw/siconfi_estadual/dca_RN_2024.parquet": "ca8bc167303c32700a1467bbf845e2c5a6be52f35000bb36ffa2787ed2e736b0",
+  "data/raw/siconfi_estadual/dca_RN_2025.parquet": "28a961fe50ebfb97ef6d6426ab155f3ea686f3eda1db720da95fd691f41642b4",
+  "data/raw/siconfi_estadual/dca_RO_2024.parquet": "11b362765e45020d0f66cba3937c4ab55259be15c0567095cda1b5902ff7617d",
+  "data/raw/siconfi_estadual/dca_RO_2025.parquet": "392e57f520335c9e88131c3923c44e579a9623860e6a27fffae5c6ee1592ce6b",
+  "data/raw/siconfi_estadual/dca_RR_2024.parquet": "466b0d8a5b634d6c02043cf6e7dd2caca7af728488b25854ed360e18e9d6ad56",
+  "data/raw/siconfi_estadual/dca_RR_2025.parquet": "7591d704e81137ffff7bb10e0677380b9dbce01ee4f5e8d33bdb40769b773618",
+  "data/raw/siconfi_estadual/dca_RS_2024.parquet": "82f2da5a9945224c003ce48c2b629712f431118fb4a401e4a563961c031b3e4b",
+  "data/raw/siconfi_estadual/dca_RS_2025.parquet": "4841afbad51597424b982a73ca56e184b5e7a84da4705bf8b34c003f07c14eaf",
+  "data/raw/siconfi_estadual/dca_SC_2024.parquet": "6c84c41bc5f71d2c53b0414b2ff1e11aa544a43793fb07214e89e469699e3c17",
+  "data/raw/siconfi_estadual/dca_SC_2025.parquet": "8a1c515a88dafacafbc42c3be2d65a5c30d787de3afb9678d0035a9073bd6b1f",
+  "data/raw/siconfi_estadual/dca_SE_2024.parquet": "963887bd5cfba508d9548c38e6afb4338ce5e22f014d82ed3c4a316d07dcd16e",
+  "data/raw/siconfi_estadual/dca_SE_2025.parquet": "d7fb78a5f003297878de5eaf3b3cbe6f1a0bb6adaa29af772fc0f6a9bad8e636",
+  "data/raw/siconfi_estadual/dca_SP_2024.parquet": "e63caf7fa80678d870f84aefbf926a47b1d61a698134b04d7d0a8a439e00103d",
+  "data/raw/siconfi_estadual/dca_SP_2025.parquet": "132ce114f9d45595480d4d8df154e10dbd033d541283d107d772e038e3921509",
+  "data/raw/siconfi_estadual/dca_TO_2024.parquet": "2b0b168c49456157ffa9cd066ecddb8d8ff6fa49a2533696cfc37e36d6a98e57",
+  "data/raw/siconfi_estadual/dca_TO_2025.parquet": "ae25f831a8b7e871e33266938d33bde948d01bc878ae95e97018dfd4a5db52ed",
+  "data/raw/siconfi_rreo/icms_uf_2024_2025.csv": "0336712a7993ec54955fc17990172cbffb6ebe204039ac9f790b16eb31f702ef",
+  "data/raw/sidra/ipca_1737.parquet": "dea8ce83a7c9a12999c6d54815ce31a95a98b8c86d41a2a2cf026e77914a853e",
+  "data/raw/sidra/nivel_68_2010_2021_xls.zip": "bce3e745591015ec0f4943851400b37f590950064be1456cab38e62ea3a0582c"
+ },
+ "nums": {
+  "carga_embutida_fbcf_construcao_pct": {
+   "fonte": "IBGE TRU 2021 nível 68 (https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9052-sistema-de-contas-nacionais-brasil.html — Tabelas de Recursos e Usos, nível 68, 2010-2021 (nivel_68_2010_2021_xls.zip)); cache local nivel_68_2010_2021_xls.zip",
+   "formula": "Σ_p FBCF_p·t_p / Σ_p FBCF_p; p em produtos de construção 41801/41802/41803 (cesta do elemento 4.4.90.51 — obras e instalações)",
+   "label": "DERIVADO",
+   "unidade": "% do valor das obras",
+   "valor": 5.097544972848471
+  },
+  "carga_embutida_fbcf_maquinas_pct": {
+   "fonte": "IBGE TRU 2021 nível 68 (https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9052-sistema-de-contas-nacionais-brasil.html — Tabelas de Recursos e Usos, nível 68, 2010-2021 (nivel_68_2010_2021_xls.zip)); cache local nivel_68_2010_2021_xls.zip",
+   "formula": "Σ_p FBCF_p·t_p / Σ_p FBCF_p; p em bens industriais duráveis 25001/26001/26002/26003/26004/27001/27002/28001/28002/28003/29911/29912/30001/31801/31802 (cesta do elemento 4.4.90.52 — equipamentos e material permanente; convenção declarada: exclui serviços, intangíveis e ativos biológicos)",
+   "label": "CONVENCAO",
+   "unidade": "% do valor dos equipamentos",
+   "valor": 7.631331641344547
+  },
+  "carga_embutida_gov_central_pct": {
+   "fonte": "IBGE TRU 2021 nível 68 (https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9052-sistema-de-contas-nacionais-brasil.html — Tabelas de Recursos e Usos, nível 68, 2010-2021 (nivel_68_2010_2021_xls.zip)); cache local nivel_68_2010_2021_xls.zip",
+   "formula": "Σ_p CI_gov_p·t_p / Σ_p CI_gov_p; CI_gov = consumo intermediário das atividades 8400/8591/8691; t_p = impostos líquidos de subsídios sobre produtos ÷ oferta a preço de consumidor (TRU 2021)",
+   "label": "DERIVADO",
+   "unidade": "% do valor das compras",
+   "valor": 8.23385030098401
+  },
+  "carga_embutida_gov_consumo_ex_producao_propria_pct": {
+   "fonte": "IBGE TRU 2021 nível 68 (https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9052-sistema-de-contas-nacionais-brasil.html — Tabelas de Recursos e Usos, nível 68, 2010-2021 (nivel_68_2010_2021_xls.zip)); cache local nivel_68_2010_2021_xls.zip",
+   "formula": "Σ_p G_p·t_p / Σ_p G_p excluindo produtos 84001/84002/85911/86911 (produção própria); diagnóstico do consumo final adquirido de terceiros",
+   "label": "DERIVADO",
+   "unidade": "% do consumo adquirido",
+   "valor": 4.3156958696892085
+  },
+  "carga_embutida_gov_consumo_total_pct": {
+   "fonte": "IBGE TRU 2021 nível 68 (https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9052-sistema-de-contas-nacionais-brasil.html — Tabelas de Recursos e Usos, nível 68, 2010-2021 (nivel_68_2010_2021_xls.zip)); cache local nivel_68_2010_2021_xls.zip",
+   "formula": "Σ_p G_p·t_p / Σ_p G_p; G = consumo final do governo (inclui produção própria não-mercantil — diagnóstico, NÃO usar como redutor)",
+   "label": "DERIVADO",
+   "unidade": "% do consumo do governo",
+   "valor": 0.19491097260576518
+  },
+  "combustiveis_receita_adrem_nacional_2024_Rbi": {
+   "fonte": "ANP, Vendas de derivados de petróleo e biocombustíveis por UF (m³, mensal), https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/vendas-de-derivados-de-petroleo-e-biocombustiveis; cache local data/raw/anp/vendas-combustiveis-m3-1990-2025.csv | Alíquotas ad rem ICMS monofásico (LC 192/2022): Conv. ICMS 199/2022, 15/2023, 172/2023, 173/2023, 126/2024, 127/2024 (textos em data/raw/normas/confaz/); tabela de vigências data/inputs/icms_adrem_vigencias.csv",
+   "formula": "Σ_uf Σ_mes volume_ANP(uf, mes) × alíquota ad rem vigente no mês (2024)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 142.08127589055357
+  },
+  "deflator_ipca_2024_para_2024": {
+   "fonte": "IBGE SIDRA tabela 1737 (IPCA número-índice, base dez/1993=100), https://sidra.ibge.gov.br/tabela/1737; cache local data/raw/sidra/ipca_1737.parquet",
+   "formula": "IPCA_médio(2024) / IPCA_médio(2024)",
+   "label": "DERIVADO",
+   "unidade": "R$ 2024 por R$ 2024",
+   "valor": 1.0
+  },
+  "deflator_ipca_2025_para_2024": {
+   "fonte": "IBGE SIDRA tabela 1737 (IPCA número-índice, base dez/1993=100), https://sidra.ibge.gov.br/tabela/1737; cache local data/raw/sidra/ipca_1737.parquet",
+   "formula": "IPCA_médio(2024) / IPCA_médio(2025)",
+   "label": "DERIVADO",
+   "unidade": "R$ 2024 por R$ 2025",
+   "valor": 0.9522290238225959
+  },
+  "fundos_estaduais_total_base_rs": {
+   "fonte": "NT SERT/MF 01/07/2024, p. 4 (https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria/regulamentacao-da-reforma-tributaria/lei-geral-do-ibs-da-cbs-e-do-imposto-seletivo/notas/nota-tecnica-aliquotas_2024-07-01_sertmf-1.pdf)",
+   "formula": "soma FETHAB-MT + FUNDERSUL-MS (base 2018) + FUNDEINFRA-GO (2023, deflacionado IPCA) — transcrição literal",
+   "label": "OFICIAL",
+   "unidade": "R$",
+   "valor": 3500000000.0
+  },
+  "glp_densidade_kg_m3": {
+   "fonte": "ANP, Anuário Estatístico 2023, Fatores de conversão/densidades (GLP 0,552 t/m³ a 20 °C e 1 atm; fonte EPE/BEN), https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/anuario-estatistico/arquivos-anuario-estatistico-2023/outras-pecas-documentais/fatores-conversao.pdf; cache data/raw/normas/anp_metadados/anuario-2023-fatores-conversao.pdf",
+   "formula": "densidade média do GLP (0,552 t/m³ × 1000)",
+   "label": "OFICIAL",
+   "unidade": "kg/m³",
+   "valor": 552.0
+  },
+  "ipca_indice_medio_2024": {
+   "fonte": "IBGE SIDRA tabela 1737 (IPCA número-índice, base dez/1993=100), https://sidra.ibge.gov.br/tabela/1737; cache local data/raw/sidra/ipca_1737.parquet",
+   "formula": "média dos 12 números-índice mensais de 2024",
+   "label": "DADO",
+   "unidade": "índice (dez/1993=100)",
+   "valor": 6952.073333333334
+  },
+  "ipca_indice_medio_2025": {
+   "fonte": "IBGE SIDRA tabela 1737 (IPCA número-índice, base dez/1993=100), https://sidra.ibge.gov.br/tabela/1737; cache local data/raw/sidra/ipca_1737.parquet",
+   "formula": "média dos 12 números-índice mensais de 2025",
+   "label": "DADO",
+   "unidade": "índice (dez/1993=100)",
+   "valor": 7300.841666666666
+  },
+  "paridade_v1_icms_media_janela_Rbi": {
+   "fonte": "SICONFI RREO Anexo 03, período 6, coluna TOTAL (ÚLTIMOS 12 MESES), R$ correntes; apidatalake.tesouro.gov.br/ords/siconfi/tt/rreo; cache local data/raw/siconfi_rreo/icms_uf_2024_2025.csv; deflatores SIDRA 1737",
+   "formula": "média{ano∈2024,2025} Σ_uf (icms_bruto + iss_df)·deflator_IPCA(ano→2024)",
+   "label": "DERIVADO",
+   "unidade": "R$ bi 2024",
+   "valor": 818.4801041251292
+  }
+ }
+}

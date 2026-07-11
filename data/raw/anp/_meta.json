@@ -1,0 +1,12 @@
+{
+ "bytes": 5835052,
+ "collected_at": "2026-06-26T18:52:38.014349+00:00",
+ "fonte": "ANP, Vendas de derivados de petróleo e biocombustíveis por UF (m³, 1990-2025) — dados abertos, sem credencial",
+ "nota_coleta": "collected_at inferido do mtime do CSV pré-existente (vintage congelada; meta gravado a posteriori)",
+ "nota_fonte_viva": "fonte VIVA: a ANP regrava o mesmo arquivo com meses/revisões novos; paridade entre vintages afere-se por igualdade numérica dos volumes 2024-2025 (GASOLINA C, ÓLEO DIESEL, GLP por UF), não por sha256",
+ "pagina": "https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/vendas-de-derivados-de-petroleo-e-biocombustiveis",
+ "sha256": {
+  "vendas-combustiveis-m3-1990-2025.csv": "375d7066b4fb2998461c431ef3bc5eec259c30f379d61e7ae96411f14aa5fe69"
+ },
+ "url": "https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vendas-derivados-petroleo-e-etanol/vendas-combustiveis-m3-1990-2025.csv"
+}

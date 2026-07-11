@@ -1,0 +1,16 @@
+# Ambiente EXATO em que os artefatos versionados (data/processed, figuras,
+# MANUSCRIPT.docx) foram gerados e a replicação byte a byte foi verificada.
+# Python 3.14.5. Instale com:  pip install -e ".[dev]" -c requirements.lock
+# Versões diferentes reproduzem os MESMOS NÚMEROS (o pipeline é
+# determinístico), mas podem alterar bytes de parquet/PNG (metadados de
+# encoder), o que o comparador de replicação distingue de deriva numérica.
+pandas==3.0.2
+numpy==2.4.4
+pyarrow==24.0.0
+matplotlib==3.10.9
+requests==2.33.1
+python-docx==1.2.0
+openpyxl==3.1.5
+xlrd==2.0.2
+pytest==9.0.3
+fonttools==4.62.1

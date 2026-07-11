@@ -1,0 +1,6 @@
+{
+ "url": "https://servicodados.ibge.gov.br/api/v3/malhas/paises/BR?intrarregiao=UF&qualidade=intermediaria&formato=application/vnd.geo+json",
+ "sha256": "09bc90c2391229ed1b07f11bbde0986180139f64b5e882379d8926c21eff0052",
+ "bytes": 251135,
+ "collected_at": "2026-07-11T22:09:00.363884+00:00"
+}

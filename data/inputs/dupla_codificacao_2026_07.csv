@@ -1,0 +1,471 @@
+codigo_pof,m_avaliador2,flag_avaliador2,dispositivo_avaliador2,avaliador,data
+600301,1.0,C,"Art. 172, IX (gás natural processado) — monofásico",LLM_cego_2026_07,2026-07-06
+700101,1.0,C,"Art. 172, V (GLP) — monofásico",LLM_cego_2026_07,2026-07-06
+700801,1.0,C,"Art. 172, I (gasolina) — monofásico",LLM_cego_2026_07,2026-07-06
+701002,1.0,C,"Art. 172, V (GLP) — monofásico",LLM_cego_2026_07,2026-07-06
+800801,1.0,A,Art. 4º — regime geral (bem sem rol específico),LLM_cego_2026_07,2026-07-06
+801101,1.0,A,Art. 4º — regime geral (bem sem rol específico),LLM_cego_2026_07,2026-07-06
+803501,1.0,A,Art. 4º — regime geral (bem sem rol específico),LLM_cego_2026_07,2026-07-06
+805101,1.0,A,"Art. 4º — regime geral (inseticida doméstico, sem rol)",LLM_cego_2026_07,2026-07-06
+913301,1.0,A,Art. 4º — regime geral (serviço de conserto),LLM_cego_2026_07,2026-07-06
+917301,1.0,A,Art. 4º — regime geral (serviço de conserto),LLM_cego_2026_07,2026-07-06
+919501,1.0,A,Art. 4º — regime geral (serviço de conserto),LLM_cego_2026_07,2026-07-06
+920301,1.0,A,Art. 4º — regime geral (serviço de conserto),LLM_cego_2026_07,2026-07-06
+921701,1.0,A,Art. 4º — regime geral (serviço de conserto),LLM_cego_2026_07,2026-07-06
+1000101,0.4,B,"Art. 261, p.u. — locação de imóvel red. 70% (residual 0,30; grid sem 0,30, aprox. p/ 0,40)",LLM_cego_2026_07,2026-07-06
+1000201,0.4,B,"Art. 261, p.u. — acessórios de locação seguem regime da locação",LLM_cego_2026_07,2026-07-06
+1000401,0.4,B,"Art. 252, III c/c 261, p.u. — locação de imóvel (garagem) red. 70%",LLM_cego_2026_07,2026-07-06
+1000601,1.0,F,"Art. 4º c/c 6º — IPTU é tributo, fora do campo de incidência",LLM_cego_2026_07,2026-07-06
+1000702,1.0,F,"Art. 4º c/c 6º — ITR é tributo, fora do campo de incidência",LLM_cego_2026_07,2026-07-06
+1000901,0.4,B,"Art. 261, p.u. — acessórios da locação de garagem seguem a locação",LLM_cego_2026_07,2026-07-06
+1101202,1.0,A,"Art. 4º — regime geral (material de construção, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1102001,0.6,B,"Art. 252, V c/c 261 caput — construção civil red. 50% (residual 0,50; grid sem 0,50, aprox. conservadora p/ 0,60)",LLM_cego_2026_07,2026-07-06
+1200501,1.0,B,"Art. 182, XI — seguro (regime financeiro, alíquota setorial exógena)",LLM_cego_2026_07,2026-07-06
+1201201,1.0,B,"Art. 182, XI — seguro (regime financeiro, alíquota setorial exógena)",LLM_cego_2026_07,2026-07-06
+1203501,1.0,F,"Art. 4º c/c 6º — taxa de aforamento (taxa pública), fora do campo",LLM_cego_2026_07,2026-07-06
+1203601,0.4,B,"Art. 252, III c/c 261, p.u. — arrendamento de imóvel red. 70%",LLM_cego_2026_07,2026-07-06
+1300201,0.7,B,"Art. 127, XIII — serviço veterinário red. 30% (rubrica mista serviço+bem)",LLM_cego_2026_07,2026-07-06
+1300202,0.7,A,"Art. 127, XIII — médico veterinário, red. 30%",LLM_cego_2026_07,2026-07-06
+1300208,0.7,A,"Art. 243 — plano de saúde de animal doméstico, red. 30%",LLM_cego_2026_07,2026-07-06
+1300706,1.0,A,"Art. 4º — regime geral (focinheira, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1500401,1.0,A,"Art. 4º — regime geral (eletrônico, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1501001,1.0,A,"Art. 4º — regime geral (impressora, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1501201,1.0,A,"Art. 4º — regime geral (ventilador, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1501401,1.0,A,"Art. 4º — regime geral (circulador de ar, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1502701,1.0,A,"Art. 4º — regime geral (máquina de costura, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1502904,1.0,A,"Art. 4º — regime geral (prancha alisadora, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1505701,1.0,A,"Art. 4º — regime geral (máquina de cortar cabelo, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1506901,1.0,A,"Art. 4º — regime geral (lavadora alta pressão, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1508301,1.0,A,"Art. 4º — regime geral (fatiador, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1601601,1.0,A,"Art. 4º — regime geral (cortador de grama, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1602802,1.0,A,"Art. 4º — regime geral (balança, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1700302,1.0,A,"Art. 4º — regime geral (sofá, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1701101,1.0,A,"Art. 4º — regime geral (cadeira, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1701901,1.0,A,"Art. 4º — regime geral (mesa de cabeceira, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1702201,1.0,A,"Art. 4º — regime geral (mesa, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1705203,1.0,A,"Art. 4º — regime geral (mesa de varanda, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1706201,1.0,A,"Art. 4º — regime geral (espreguiçadeira, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1800301,1.0,A,"Art. 4º — regime geral (persianas, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1800604,1.0,A,"Art. 4º — regime geral (lustre, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1801001,1.0,A,"Art. 4º — regime geral (espelho decorativo, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1804003,1.0,A,"Art. 4º — regime geral (mosquiteiro, bem sem rol)",LLM_cego_2026_07,2026-07-06
+1900201,1.0,F,"Faxineiro(a) sob grupo Habitacao = trabalho doméstico com vínculo empregatício; fora do campo (LC 214 art. 6º, I, 'a'). m=1,00 por convenção.",LLM_cego_2026_07,2026-07-06
+1900202,1.0,F,"Faxineira (Habitacao) = empregada doméstica; fora do campo de incidência (art. 6º, I, 'a').",LLM_cego_2026_07,2026-07-06
+1900501,1.0,F,"Passadeiro(a) doméstica (Habitacao) = vínculo de emprego pessoa física; fora do campo (art. 6º, I, 'a').",LLM_cego_2026_07,2026-07-06
+1901101,1.0,F,"Motorista sob grupo Habitacao = empregado doméstico; fora do campo (art. 6º, I, 'a'). Aproximação: se autônomo seria regime geral, mas rubrica é doméstica.",LLM_cego_2026_07,2026-07-06
+2102501,1.0,C,"Narguile/tabaco: derivado do tabaco sujeito ao Imposto Seletivo (art. 409, §1º) mas quanto ao IBS/CBS segue regime geral m=1,00; rubrica mista (essência+utensílios) → flag C.",LLM_cego_2026_07,2026-07-06
+2200401,1.0,B,"Quina = modalidade lotérica; concursos de prognósticos (art. 244-247), base=receita/GGR (art. 245). m=1,00 flag B (base de cálculo legal diversa).",LLM_cego_2026_07,2026-07-06
+2200601,1.0,B,"Loteria Federal = modalidade lotérica; regime específico concursos de prognósticos (art. 244-247), base GGR. m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2201101,1.0,B,"Jogo do bicho = aposta; concursos de prognósticos (art. 244, 'demais apostas'), base = receita própria (art. 245). m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2202801,1.0,B,"Bolão (aposta) = concurso de prognósticos (art. 244-247), base GGR (art. 245). m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2202901,1.0,B,"Aposta online = aposta de quota fixa/virtual, concurso de prognósticos (art. 244), base = receita própria (art. 245). m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2203101,1.0,B,"Roleta (aposta) = concurso de prognósticos / demais apostas (art. 244-247), base GGR. m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2203201,1.0,B,"Corrida de cachorros (aposta) = 'demais apostas', concurso de prognósticos (art. 244-247), base = receita própria. m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2300901,0.6,B,"Transporte aquaviário (barca/balsa/navio) = hidroviário de passageiros; se intermunicipal/interestadual redução 40% (art. 286, m=0,60); se urbano seria 100% (art. 285, m=0,00). Rubrica genérica ambígua → conservador m=0,60 flag B.",LLM_cego_2026_07,2026-07-06
+2300906,0.6,B,"Ferry-boat = transporte hidroviário de passageiros; ambíguo urbano (art. 285, 0%) vs intermunicipal (art. 286, 40%). Conservador m=0,60 flag B.",LLM_cego_2026_07,2026-07-06
+2300907,0.6,B,"Aerobarco = transporte hidroviário de passageiros (art. 284, II/III); ambíguo urbano/intermunicipal → conservador m=0,60 flag B.",LLM_cego_2026_07,2026-07-06
+2300908,0.6,B,"Catamarã = transporte hidroviário de passageiros; regime específico (art. 284-286); ambíguo → conservador m=0,60 flag B.",LLM_cego_2026_07,2026-07-06
+2300909,0.6,B,"Catraia (pequena travessia aquática) = hidroviário de passageiros; possivelmente urbano (art. 285, 0%) mas rubrica não fixa itinerário/preço público → conservador m=0,60 flag B.",LLM_cego_2026_07,2026-07-06
+2301401,1.0,C,"Gasolina comum = combustível monofásico (art. 172); regime geral, tributação única na cadeia. m=1,00 flag C (monofásico).",LLM_cego_2026_07,2026-07-06
+2301501,1.0,C,"Gasolina aditivada = combustível monofásico (art. 172). m=1,00 flag C.",LLM_cego_2026_07,2026-07-06
+2301502,1.0,C,"Gasolina especial = combustível monofásico (art. 172). m=1,00 flag C.",LLM_cego_2026_07,2026-07-06
+2301601,1.0,C,"Álcool/etanol combustível = combustível monofásico (art. 172). m=1,00 flag C.",LLM_cego_2026_07,2026-07-06
+2301701,1.0,C,"Óleo diesel = combustível monofásico (art. 172). m=1,00 flag C.",LLM_cego_2026_07,2026-07-06
+2302201,1.0,C,"Querosene (combustível de veículo) = combustível monofásico (art. 172). m=1,00 flag C.",LLM_cego_2026_07,2026-07-06
+2302301,0.0,B,"Bonde/bondinho: bonde sobre trilhos urbano = transporte metroviário (art. 157, III, VLT/trens urbanos) isento m=0,00; 'bondinho' teleférico turístico seria regime geral → rubrica mista, isenção urbana dominante → m=0,00 flag B.",LLM_cego_2026_07,2026-07-06
+2302302,0.0,A,"VLT (veículo leve sobre trilhos) = transporte público metroviário urbano (art. 157, III, def. expressa 'veículos leves sobre trilhos'); isento m=0,00 flag A.",LLM_cego_2026_07,2026-07-06
+2400102,0.6,A,"Almoço a peso = fornecimento de alimentação por restaurante; regime específico bares/restaurantes (art. 273-275), redução 40% → m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2400206,0.6,A,"Almoço à la carte e sobremesa = fornecimento de alimentação por restaurante (art. 273-275), redução 40% → m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2400704,0.6,A,"Empada (alimentação fora do domicílio) = fornecimento de alimentação por bar/lanchonete (art. 273-275), redução 40% → m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2400709,0.6,A,"Enroladinho (salgado, alimentação fora do domicílio) = bar/restaurante/lanchonete (art. 273-275), m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2400722,0.6,A,"Tapioca salgada (preparada em estabelecimento) = fornecimento de alimentação por lanchonete (art. 273-275), m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2400723,0.6,A,"Acarajé (preparado/servido, alimentação fora do domicílio) = fornecimento de alimentação (art. 273-275), m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2400730,0.6,A,"Tábua de frios (servida em bar/restaurante) = fornecimento de alimentação (art. 273-275), m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2400901,1.0,B,"Biscoito doce = produto de confeitaria industrializado, não consta cesta básica (Anexo I) nem Anexo VII; regime geral m=1,00. Se servido em lanchonete seria 0,60, mas rubrica de produto embalado → m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2401402,0.6,B,"Banana: fruta fresca posição 08.03 = Anexo XV redução 100% (art. 148, m=0,00) enquanto bem; porém sob 'Alimentação fora do domicílio' é fornecimento por estabelecimento (art. 273) → conservador m=0,60 flag B (aproximação: bem isento servido como refeição).",LLM_cego_2026_07,2026-07-06
+2401406,0.6,B,"Pera: fruta fresca posição 08.08 = Anexo XV (art. 148, m=0,00) como bem; sob alimentação fora do domicílio = fornecimento por estabelecimento (art. 273) → conservador m=0,60 flag B.",LLM_cego_2026_07,2026-07-06
+2401609,0.6,A,"Sonho (doce de confeitaria servido em padaria/lanchonete) = fornecimento de alimentação (art. 273-275), m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2401614,0.6,A,"Tapioca doce (preparada em estabelecimento) = fornecimento de alimentação por lanchonete (art. 273-275), m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2401631,0.6,A,"Brigadeiro (doce servido/vendido em estabelecimento alimentício) = fornecimento de alimentação (art. 273-275), m=0,60 flag A.",LLM_cego_2026_07,2026-07-06
+2402006,0.6,B,"Vitamina de morango = bebida não alcoólica preparada no estabelecimento (art. 273, §1º), sujeita ao regime de bares/restaurantes, redução 40% → m=0,60 flag B.",LLM_cego_2026_07,2026-07-06
+2402801,1.0,A,"Cerveja = bebida alcoólica; EXCLUÍDA do regime específico de bares/restaurantes (art. 273, §2º, III) → regime geral m=1,00 flag A.",LLM_cego_2026_07,2026-07-06
+2403401,0.6,B,"Leite: bem = cesta básica (Anexo I, códigos 0401, m=0,00); porém sob 'Alimentação fora do domicílio' é fornecimento por estabelecimento (art. 273) → conservador m=0,60 flag B (bem isento servido como parte de refeição).",LLM_cego_2026_07,2026-07-06
+2403901,0.6,C,"Salada de frutas: frutas cortadas Anexo XV admitiria m=0,00 como bem; preparada/servida por estabelecimento = fornecimento de alimentação (art. 273) → m=0,60. Fronteira genuína bem/serviço → conservador m=0,60 flag C.",LLM_cego_2026_07,2026-07-06
+2405301,0.4,B,"Yakult = leite fermentado (Anexo VII, códigos 0403 – 'leite fermentado, bebidas e compostos lácteos'), art. 135 redução 60% → m=0,40 flag B.",LLM_cego_2026_07,2026-07-06
+2407102,0.6,B,"Café expresso orgânico = bebida preparada e servida no estabelecimento (art. 273, §1º), regime bares/restaurantes redução 40% → m=0,60 flag B (café torrado a granel seria cesta básica 0,00, mas aqui é serviço).",LLM_cego_2026_07,2026-07-06
+2408302,1.0,B,"Bolacha salgada light = produto industrializado embalado; não consta cesta básica (Anexo I) nem Anexo VII; regime geral m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2409506,1.0,B,"Maria mole diet = doce de confeitaria industrializado; fora dos róis (Anexo I/VII); regime geral m=1,00 flag B.",LLM_cego_2026_07,2026-07-06
+2412701,0.4,B,"Castanha de pequi = fruta de casca rija regional / fruto oleaginoso (Anexo VII, cap. 12 ou item 'fruta de casca rija regional...apenas torrados sem sal'), art. 135 redução 60% → m=0,40 flag B (cesta básica exclui castanhas; enquadra no Anexo VII).",LLM_cego_2026_07,2026-07-06
+2600902,1.0,F,"DOC (transferência interbancária) = movimentação do próprio numerário/registro de transferência, não é fornecimento oneroso de bem ou serviço consumido; fora do campo (art. 4º c/c art. 6º). m=1,00 por convenção.",LLM_cego_2026_07,2026-07-06
+2701101,1.0,C,"Álbum e figurinhas = produto impresso/cromos; não é claramente livro/jornal/periódico imune (CF art. 150, VI, d); rubrica mista (álbum + figurinhas). Conservador m=1,00 flag C.",LLM_cego_2026_07,2026-07-06
+2701201,1.0,C,"Passatempos (palavra cruzada, quebra-cabeça, gibi): gibi seria periódico imune, mas rubrica mista com quebra-cabeça (brinquedo tributado) → conservador m=1,00 flag C.",LLM_cego_2026_07,2026-07-06
+2701205,0.0,A,"Imunidade CF art. 149-B, p.u. c/c art. 150, VI, d — periódico (gibi/revista em quadrinhos)",LLM_cego_2026_07,2026-07-06
+2702401,0.0,A,"Imunidade CF art. 149-B, p.u. c/c art. 150, VI, d — periódico/revista",LLM_cego_2026_07,2026-07-06
+2800402,1.0,C,"Ingresso feira de informática; não consta em rol reduzido (Anexo X é produção artística/cultural/eventos, não claramente aplicável) — regime geral, conservador",LLM_cego_2026_07,2026-07-06
+2900103,0.4,A,"Art. 133 — medicamento registrado na Anvisa (analgésico), fora do rol de destinação do art. 146; redução de 60%",LLM_cego_2026_07,2026-07-06
+2900205,0.4,A,"Art. 133 — medicamento (antigripal homeopático) registrado na Anvisa, fora do art. 146; redução de 60%",LLM_cego_2026_07,2026-07-06
+2901305,0.4,B,"Art. 133 — medicamento p/ epilepsia; epilepsia não integra o rol de destinação do art. 146 (raras/negligenciadas/oncologia/diabetes/HIV/cardio/Farmácia Popular); poderia haver zero via Farmácia Popular, mas default é redução de 60%",LLM_cego_2026_07,2026-07-06
+2901903,0.4,B,"Art. 133 — creme dermatológico; se medicamento Anvisa, redução de 60%; rubrica ambígua (medicamento vs. cosmético), enquadrado como medicamento pelo grupo Assistência à saúde",LLM_cego_2026_07,2026-07-06
+2902002,0.4,A,"Art. 133 — remédios otológicos, medicamento Anvisa fora do art. 146; redução de 60%",LLM_cego_2026_07,2026-07-06
+2902401,0.4,A,"Art. 133 — anticoncepcional, medicamento Anvisa fora das destinações do art. 146; redução de 60%",LLM_cego_2026_07,2026-07-06
+2905502,0.4,A,Art. 133 — adesivos antitabagismo (medicamento Anvisa) fora do art. 146; redução de 60%,LLM_cego_2026_07,2026-07-06
+2905504,0.4,A,"Art. 133 — medicamento p/ tratamento do alcoolismo, Anvisa, fora do art. 146; redução de 60%",LLM_cego_2026_07,2026-07-06
+2905704,0.4,A,"Art. 133 — anti-hemorrágico, medicamento Anvisa fora do art. 146; redução de 60%",LLM_cego_2026_07,2026-07-06
+2908001,0.4,A,Art. 133 — medicamento não especificado; default do medicamento Anvisa é redução de 60%,LLM_cego_2026_07,2026-07-06
+2908101,1.0,C,"Suplemento alimentar não é medicamento Anvisa (art. 133) nem consta no Anexo VII (art. 135) nem no art. 146 §2º (nutrição enteral/parenteral p/ erros inatos); regime geral, conservador",LLM_cego_2026_07,2026-07-06
+3000602,1.0,A,Creme hidratante (cosmético) não consta no Anexo VIII (rol fechado de 7 itens do art. 136); regime geral,LLM_cego_2026_07,2026-07-06
+3000811,1.0,A,Estojo de barbear fora do Anexo VIII; regime geral,LLM_cego_2026_07,2026-07-06
+3001003,1.0,A,Prendedor para cabelo fora do Anexo VIII; regime geral,LLM_cego_2026_07,2026-07-06
+3001104,1.0,A,Xampu NÃO consta no Anexo VIII (só sabões toucador/dentifrícios/escovas/papel higiênico/água sanitária/sabões barra/fraldas); regime geral,LLM_cego_2026_07,2026-07-06
+3001124,1.0,A,Água oxigenada para cabelo (cosmético) fora do Anexo VIII; regime geral,LLM_cego_2026_07,2026-07-06
+3002001,1.0,A,"Fio dental NÃO consta no Anexo VIII (escovas de dente constam, fio dental não); regime geral",LLM_cego_2026_07,2026-07-06
+3002301,1.0,A,Parafina fora de qualquer rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3003602,1.0,B,"Kit dental é rubrica mista (escova+dentifrício constam no Anexo VIII, mas o kit agregado não tem NCM/SH única do rol); conservador regime geral",LLM_cego_2026_07,2026-07-06
+3100211,1.0,A,Serviço de cabeleireiro (permanente) não é profissão regulamentada do art. 127 nem consta em rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3202501,1.0,A,"Fichário (material de papelaria) não é serviço de educação (art. 129 alcança serviços do Anexo II, não bens); regime geral",LLM_cego_2026_07,2026-07-06
+3203601,1.0,A,Bloco de papel (papelaria) não é serviço de educação do art. 129/Anexo II; regime geral,LLM_cego_2026_07,2026-07-06
+3204704,1.0,A,Bigode para carnaval (adereço/fantasia) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3300701,1.0,A,Alinhamento de rodas (serviço automotivo) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3300902,1.0,A,Guincho/reboque (serviço) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3301103,1.0,A,Pneu de veículo (bem) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3301706,1.0,A,Toca-fitas de veículo (bem) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3401303,1.0,A,Jaqueta masculina (vestuário) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3501202,1.0,A,Cueca feminina (vestuário) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3600102,1.0,A,Blusa infantil (vestuário) — LC 214 não prevê redução p/ vestuário infantil; regime geral,LLM_cego_2026_07,2026-07-06
+3600301,1.0,A,Bermuda/short infantil (vestuário) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3601902,1.0,A,Casaco infantil (vestuário) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3602903,1.0,A,Blazer infantil (vestuário) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3700106,1.0,A,Renda (aviamento têxtil) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3700108,1.0,A,Carretel (aviamento) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3800201,1.0,A,Sapato masculino (calçado) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3901102,1.0,A,Vassoura de vaso sanitário (utensílio) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3907401,1.0,A,Corda de varal (utensílio doméstico) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3907503,1.0,A,Bacia de esmalte (utensílio) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3907505,1.0,A,Jogo de bacias de alumínio (utensílio) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3909201,1.0,A,Pedra de amolar (utensílio) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3913401,1.0,A,Torneira de filtro de plástico (utensílio) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3915801,1.0,A,Suporte para papel alumínio de plástico (utensílio) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+3918401,1.0,A,Baleiro (utensílio) fora de rol reduzido; regime geral,LLM_cego_2026_07,2026-07-06
+4000301,0.7,A,"Art. 127, II — advogados; redução de 30%",LLM_cego_2026_07,2026-07-06
+4000501,0.7,A,"Art. 127, VII — contabilistas (contador); redução de 30%",LLM_cego_2026_07,2026-07-06
+4000701,0.7,A,"Art. 127, XI — engenheiros e agrônomos; redução de 30%",LLM_cego_2026_07,2026-07-06
+4000801,0.7,A,"Art. 127, III (arquitetos e urbanistas) - reducao 30%",LLM_cego_2026_07,2026-07-06
+4001201,1.0,A,Detetive particular nao consta rol taxativo art. 127; regime geral,LLM_cego_2026_07,2026-07-06
+4001401,0.7,A,"Art. 127, XI (engenheiros e agronomos) - reducao 30%",LLM_cego_2026_07,2026-07-06
+4100401,0.6,A,"Art. 284, I c/c art. 286 - transporte rodoviario interestadual, reducao 40%",LLM_cego_2026_07,2026-07-06
+4101101,0.6,B,"Art. 284, II c/c art. 286 - transporte hidroviario coletivo (rubrica generica; presumido intermunic/interest), reducao 40%",LLM_cego_2026_07,2026-07-06
+4101102,0.6,B,"Art. 284, II c/c art. 286 - barca (transporte hidroviario coletivo), reducao 40%",LLM_cego_2026_07,2026-07-06
+4101104,0.6,B,"Art. 284, II c/c art. 286 - balsa (transporte hidroviario coletivo), reducao 40%",LLM_cego_2026_07,2026-07-06
+4101106,0.6,B,"Art. 284, II c/c art. 286 - ferry-boat (transporte hidroviario coletivo), reducao 40%",LLM_cego_2026_07,2026-07-06
+4101501,1.0,C,Art. 172 - combustivel de veiculo (regime monofasico),LLM_cego_2026_07,2026-07-06
+4101901,0.6,B,Aluguel de imovel por temporada equivale a hotelaria (alojamento temporario) art. 278 II c/c art. 281 - reducao 40%,LLM_cego_2026_07,2026-07-06
+4102901,0.6,B,"Pacote turistico nacional - intermediacao por agencia de turismo art. 288-289 (aliquota de hotelaria/parques, art. 281), reducao 40%; base = margem",LLM_cego_2026_07,2026-07-06
+4106001,1.0,A,Guarda-volumes - servico sem rol especifico; regime geral,LLM_cego_2026_07,2026-07-06
+4200201,0.4,A,"Arts. 234-237 - plano de assistencia a saude, reducao 60%",LLM_cego_2026_07,2026-07-06
+4201302,0.4,A,"Art. 130 + Anexo III item 17 (servicos de psicologia), reducao 60%",LLM_cego_2026_07,2026-07-06
+4202405,0.4,A,"Art. 130 + Anexo III itens 5/7 (atendimento de urgencia/clinica medica), reducao 60%",LLM_cego_2026_07,2026-07-06
+4203201,0.4,C,Artigo ortopedico - dispositivo medico Anexo IV/V (rubrica generica sapato/muleta/cadeira nao mapeia NCM especifico); conservador reducao 60%,LLM_cego_2026_07,2026-07-06
+4204901,0.4,A,"Art. 130 + Anexo III item 8 (servicos medicos especializados - angiologista), reducao 60%",LLM_cego_2026_07,2026-07-06
+4205501,0.4,C,Meia elastica para varizes - dispositivo medico Anexo IV (nao mapeia NCM especifico); conservador reducao 60%,LLM_cego_2026_07,2026-07-06
+4207403,0.4,C,Rubrica POF indefinida ('CURIOSO') no grupo assistencia a saude; conservador tier saude reducao 60%,LLM_cego_2026_07,2026-07-06
+4208501,0.4,A,"Art. 130 + Anexo III item 8 (servicos medicos especializados - infectologista), reducao 60%",LLM_cego_2026_07,2026-07-06
+4300115,1.0,A,Bexiga de festa - bem sem rol especifico; regime geral,LLM_cego_2026_07,2026-07-06
+4300127,1.0,A,Minigame - bem sem rol especifico; regime geral,LLM_cego_2026_07,2026-07-06
+4301004,1.0,A,Colchao para acampamento - bem sem rol especifico; regime geral,LLM_cego_2026_07,2026-07-06
+4301202,1.0,A,Espingarda de caca - bem sem rol especifico; regime geral,LLM_cego_2026_07,2026-07-06
+4399901,1.0,C,Rubrica agregada de recreacao/cultura sem NCM/NBS decidivel; conservador regime geral,LLM_cego_2026_07,2026-07-06
+4400801,1.0,B,"Seguro para telefone celular - regime especifico financeiro (seguros), arts. 181-183; aliquota setorial exogena",LLM_cego_2026_07,2026-07-06
+4500201,1.0,B,"Aluguel de espaco para evento - servico misto de espaco/eventos, sem enquadramento residencial claro; regime geral",LLM_cego_2026_07,2026-07-06
+4501201,1.0,A,"Aluguel de veiculo para evento - locacao de bem movel, sem rol especifico; regime geral",LLM_cego_2026_07,2026-07-06
+4502001,0.4,C,"Festa junina (ingresso) - evento folclorico art. 139 III + Anexo X (rol fechado NCM/NBS, enquadramento incerto); conservador reducao 60%",LLM_cego_2026_07,2026-07-06
+4700301,0.4,B,"Aluguel de outros imoveis (locacao) - art. 261 p.u. reducao 70% (m efetivo 0,30 fora do conjunto permitido); aproximacao ao tier disponivel mais proximo",LLM_cego_2026_07,2026-07-06
+4700401,0.4,B,"Aluguel de garagem (locacao de bem imovel) - art. 252 §1 c/c art. 261 p.u. reducao 70% (m efetivo 0,30 fora do conjunto); aproximacao",LLM_cego_2026_07,2026-07-06
+4700901,1.0,A,Agua e esgoto (saneamento) - sem regime de reducao especifico; regime geral,LLM_cego_2026_07,2026-07-06
+4702201,1.0,C,Gasolina (combustivel domestico) - art. 172 regime monofasico,LLM_cego_2026_07,2026-07-06
+4702301,1.0,C,Alcool (combustivel domestico) - art. 172 regime monofasico,LLM_cego_2026_07,2026-07-06
+4702601,1.0,F,"INCRA (imposto/tributo) - fora do campo de incidencia, art. 4 c/c art. 6",LLM_cego_2026_07,2026-07-06
+4702801,0.4,B,"Arrendamento de outros imoveis - art. 252 III c/c art. 261 p.u. reducao 70% (m efetivo 0,30 fora do conjunto); aproximacao",LLM_cego_2026_07,2026-07-06
+4800301,1.0,B,"Seguro de emprestimo - regime especifico financeiro (seguro/garantia de credito), arts. 181-183",LLM_cego_2026_07,2026-07-06
+4801003,1.0,F,"Associacao de trabalhadores - contribuicao associativa, fora do campo art. 6, XII",LLM_cego_2026_07,2026-07-06
+4801406,1.0,F,"Dizimo para igreja - doacao/dizimo, fora do campo art. 4 c/c art. 6",LLM_cego_2026_07,2026-07-06
+4802601,1.0,B,"Peculio domiciliar - produto de seguro/previdencia (capitalizacao/mutual), regime especifico financeiro arts. 181-183",LLM_cego_2026_07,2026-07-06
+4900501,0.4,A,"Art. 129 + Anexo II item 3 (Ensino Medio), reducao 60%",LLM_cego_2026_07,2026-07-06
+4901102,0.4,A,"Art. 129 + Anexo II item 6 (Ensino Superior - pos-graduacao/mestrado), reducao 60%",LLM_cego_2026_07,2026-07-06
+4901203,0.4,A,"Art. 129 + Anexo II item 6 (Ensino Superior - pos-graduacao/doutorado), reducao 60%",LLM_cego_2026_07,2026-07-06
+4901506,1.0,C,Curso de japones - curso livre de lingua estrangeira nao consta rol fechado Anexo II (item 7/8 = Libras/linguas originarias); art. 129 p.u. I restringe ao anexo; regime geral,LLM_cego_2026_07,2026-07-06
+4903501,0.4,A,"Matricula escolar - contraprestacao de servico de ensino formal, art. 129 + Anexo II, reducao 60%",LLM_cego_2026_07,2026-07-06
+4905701,1.0,C,Curso livre de corte e costura nao consta rol fechado Anexo II; art. 129 p.u. I; regime geral,LLM_cego_2026_07,2026-07-06
+4908102,0.4,A,"Art. 129 + Anexo II item 6 (Ensino Superior - pos-graduacao a distancia), reducao 60%",LLM_cego_2026_07,2026-07-06
+4908502,1.0,A,"CD pre-gravado de cursos - bem (nao servico de ensino), art. 129 p.u. II exclui outras operacoes; regime geral",LLM_cego_2026_07,2026-07-06
+4910601,1.0,C,Curso profissionalizante de cuidador (curso livre) nao consta rol fechado Anexo II; art. 129 p.u. I; regime geral,LLM_cego_2026_07,2026-07-06
+4913201,1.0,C,Curso de terapia alternativa (curso livre) nao consta rol fechado Anexo II; art. 129 p.u. I; regime geral,LLM_cego_2026_07,2026-07-06
+5000201,1.0,B,"Seguro (DPVAT) — regime específico de serviços financeiros/seguros, arts. 181-183 (alíquota setorial exógena)",LLM_cego_2026_07,2026-07-06
+5000301,1.0,B,"Seguro voluntário de veículo — regime específico de seguros, arts. 181-183 (alíquota setorial exógena)",LLM_cego_2026_07,2026-07-06
+5400401,1.0,F,"Aposentadoria INSS — transferência/renda recebida, fora do campo (art. 4º c/c art. 6º); não é fornecimento oneroso",LLM_cego_2026_07,2026-07-06
+5400601,1.0,F,"Aposentadoria da previdência pública — transferência/renda recebida, fora do campo (art. 4º c/c art. 6º)",LLM_cego_2026_07,2026-07-06
+5402603,1.0,F,"Auxílio-fardamento — verba/renda recebida do vínculo, fora do campo (art. 4º c/c art. 6º, I)",LLM_cego_2026_07,2026-07-06
+5402801,1.0,F,"Auxílio-comunicação — verba/renda recebida, fora do campo (art. 4º c/c art. 6º, I)",LLM_cego_2026_07,2026-07-06
+5501501,1.0,F,"Hora extra — remuneração de trabalho com vínculo de emprego, fora do campo (art. 6º, I, 'a')",LLM_cego_2026_07,2026-07-06
+5501701,1.0,F,"Seguro-desemprego — benefício/transferência recebida, fora do campo (art. 4º c/c art. 6º)",LLM_cego_2026_07,2026-07-06
+5502602,1.0,F,"Venda de relógio por pessoa física não contribuinte — renda de alienação eventual, fora do campo (art. 4º c/c art. 6º)",LLM_cego_2026_07,2026-07-06
+5502614,1.0,F,"Venda de gaiola por pessoa física não contribuinte — alienação eventual, fora do campo (art. 4º c/c art. 6º)",LLM_cego_2026_07,2026-07-06
+5505301,1.0,F,"Caixinha/gorjeta — renda recebida, fora do campo (art. 4º c/c art. 6º)",LLM_cego_2026_07,2026-07-06
+5600401,1.0,F,"Depósitos e aplicações (títulos públicos, ouro, moeda estrangeira) — aquisição de ativo financeiro, fora do campo (art. 4º c/c art. 6º)",LLM_cego_2026_07,2026-07-06
+6301621,0.0,A,"Feijão — art. 125 + Anexo I, item 7 (feijões NCM 0713.33/0713.35); cesta básica nacional, alíquota zero",LLM_cego_2026_07,2026-07-06
+6301902,0.0,A,"Feijão — art. 125 + Anexo I, item 7; cesta básica nacional, alíquota zero",LLM_cego_2026_07,2026-07-06
+6303908,0.0,A,"Feijão (orgânico não altera NCM) — art. 125 + Anexo I, item 7; alíquota zero",LLM_cego_2026_07,2026-07-06
+6304013,0.0,A,"Feijão gurutuba (orgânico) — art. 125 + Anexo I, item 7; alíquota zero",LLM_cego_2026_07,2026-07-06
+6304314,0.0,A,"Arroz vermelho (orgânico) — art. 125 + Anexo I, item 1 (arroz 1006); alíquota zero",LLM_cego_2026_07,2026-07-06
+6400608,0.0,A,"Maniva (folha de mandioca, hortícola in natura cap. 7) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6400701,0.0,A,"Cará (raiz/tubérculo, posição 07.14) — art. 148 + Anexo XV, item 5; alíquota zero",LLM_cego_2026_07,2026-07-06
+6401801,0.0,A,"Batata inglesa (orgânica; hortícola/tubérculo posição 07.01) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6401903,0.0,A,"Cenourinha (orgânica; raiz/tubérculo posição 07.06) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6500401,0.0,C,"Aveia em flocos (grãos de aveia esmagados NCM 1104.12.00) — art. 125 + Anexo I, item 17; flag C por depender de enquadramento NCM do beneficiamento",LLM_cego_2026_07,2026-07-06
+6500615,0.0,A,"Farinha de fubá (farinha de milho NCM 1102.20.00) — art. 125 + Anexo I, item 11; alíquota zero",LLM_cego_2026_07,2026-07-06
+6501003,0.4,C,"Semolina de trigo — não está no rol fechado do Anexo I (só farinha de trigo, item 13); grumos/sêmolas de cereais do Anexo VII, item 5 (1103.11/1103.19); redução 60%, flag C por NCM",LLM_cego_2026_07,2026-07-06
+6501502,0.4,C,"Goma de mandioca (fécula/polvilho, NCM 1108.14) — não literal no Anexo I (tapioca 1903 / amido de milho 1108.12); tratada como sucedâneo de tapioca; nível conservador 0,40 flag C",LLM_cego_2026_07,2026-07-06
+6501506,0.4,C,"Goma de carimã (fécula de mandioca, NCM 1108.14) — não literal em rol fechado; nível conservador 0,40 flag C (sucedâneo de tapioca/amido)",LLM_cego_2026_07,2026-07-06
+6503501,0.4,C,"Purê de batata em caixa (batata pré-cozida/preparada, posição 20.05) — Anexo VII, item 16 (hortícolas pré-cozidos); redução 60%, flag C por conter aditivos e por NCM",LLM_cego_2026_07,2026-07-06
+6504203,1.0,A,"Coxinha semipronta (salgado preparado, não em rol de alimentos reduzidos) — regime geral, alíquota padrão",LLM_cego_2026_07,2026-07-06
+6510001,0.0,C,"Macarrão de feijão (massa alimentícia não cozida, subposição 1902.1) — art. 125 + Anexo I, item 15; flag C por depender do enquadramento NCM (1902.1 vs 1902.20/30 do Anexo VII)",LLM_cego_2026_07,2026-07-06
+6510202,1.0,A,"Barquete para canapé (produto de padaria/salgado, posição 19.05, não pão francês/forma) — regime geral, alíquota padrão",LLM_cego_2026_07,2026-07-06
+6600601,1.0,A,"Avelã (fruta de casca rija NÃO regional, posição 08.02) — expressamente ressalvada no Anexo VII, item 14 e fora do Anexo XV; regime geral",LLM_cego_2026_07,2026-07-06
+6600903,0.4,C,"Ariri (fruto de palmeira regional / oleaginosa cap. 12) — fruta de casca rija regional NÃO ressalvada no Anexo VII, item 14/15; redução 60%, flag C",LLM_cego_2026_07,2026-07-06
+6601404,0.0,C,"Coco de quaresma (coco, subposição 0801.1) — art. 148 + Anexo XV, item 6; flag C por identificação da espécie regional no 0801.1",LLM_cego_2026_07,2026-07-06
+6603101,0.4,C,"Mix de sementes e frutas — sementes/frutos oleaginosos cap. 12 (Anexo VII, item 15); mistura processada, redução 60% conservadora, flag C",LLM_cego_2026_07,2026-07-06
+6701102,0.0,A,"Cebolinha verde (hortícola in natura, posição 07.03) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6701401,0.0,A,"Taioba (hortícola folhosa in natura, posição 07.09) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6702204,0.0,A,"Manjongome (hortícola folhosa regional in natura, cap. 7, posição 07.09) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6702207,0.0,A,"Língua de vaca em folha (hortaliça folhosa in natura, cap. 7, posição 07.09) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6703502,0.0,A,"Abóbora almíscar (hortícola in natura, posição 07.09) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6704002,0.0,A,"Pepino japonês (hortícola in natura, posição 07.07) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6704304,0.0,A,"Maxixe do mato (hortícola in natura, cap. 7, posição 07.09) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6705604,0.0,A,"Cabaça porongo (hortícola in natura, cap. 7, posição 07.09) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6706502,0.0,A,"Abóbora cabotiá (hortícola in natura, posição 07.09) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6707703,0.0,A,"Palmito doce in natura (orgânico; hortícola in natura, cap. 7, posição 07.09) — art. 148 + Anexo XV, item 2; alíquota zero (in natura, não conserva)",LLM_cego_2026_07,2026-07-06
+6707812,0.0,A,"Alface lisa (hidrorgânica; hortícola in natura, posição 07.05) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6708101,0.0,A,"Brócolis (orgânico; hortícola in natura, posição 07.04) — art. 148 + Anexo XV, item 2; alíquota zero",LLM_cego_2026_07,2026-07-06
+6800311,0.0,A,"Banana canela (fruta fresca, posição 08.03) — art. 148 + Anexo XV, item 3; alíquota zero",LLM_cego_2026_07,2026-07-06
+6800501,0.0,A,"Banana figo (fruta fresca, posição 08.03) — art. 148 + Anexo XV, item 3; alíquota zero",LLM_cego_2026_07,2026-07-06
+6801015,0.0,A,"Banana pacovi (fruta fresca, posição 08.03) — art. 148 + Anexo XV, item 3; alíquota zero",LLM_cego_2026_07,2026-07-06
+6801310,0.0,A,"Laranja flor (fruta fresca, posição 08.05) — art. 148 + Anexo XV, item 3; alíquota zero",LLM_cego_2026_07,2026-07-06
+6802802,0.0,A,"Art. 148 + Anexo XV item 3 (caqui = fruta fresca pos. 08.10 NCM, sem adicao de acucar)",LLM_cego_2026_07,2026-07-06
+6803103,0.0,A,Art. 148 + Anexo XV item 3 (mamao = fruta fresca pos. 08.07 NCM),LLM_cego_2026_07,2026-07-06
+6803307,0.0,A,Art. 148 + Anexo XV item 3 (maracuja fresco pos. 08.10 NCM),LLM_cego_2026_07,2026-07-06
+6805102,0.0,A,Art. 148 + Anexo XV item 3 (araticum = fruta fresca regional pos. 08.10 NCM),LLM_cego_2026_07,2026-07-06
+6806603,0.0,A,Art. 148 + Anexo XV item 3 (inga = fruta fresca regional pos. 08.10 NCM),LLM_cego_2026_07,2026-07-06
+6807001,0.0,A,Art. 148 + Anexo XV item 3 (murici = fruta fresca regional pos. 08.10 NCM),LLM_cego_2026_07,2026-07-06
+6811201,0.0,A,Art. 148 + Anexo XV item 3 (cranberry/oxicoco = fruta fresca pos. 08.10 NCM),LLM_cego_2026_07,2026-07-06
+6900803,1.0,A,Regime geral art. 18: achocolatado em po (NCM 18.06) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6901310,1.0,A,Regime geral art. 18: cereja em calda (conserva com adicao de acucar) nao integra Anexo VII item 11 (exige sem acucar),LLM_cego_2026_07,2026-07-06
+6901802,0.0,C,Art. 148 + Anexo XV item 3 (suita = fruta fresca regional cap. 8 NCM; residual incerto quanto a apresentacao),LLM_cego_2026_07,2026-07-06
+6902416,0.4,C,"Art. 135 + Anexo VII item 14 (banana desidratada, cap. 8 sem adicao de acucar; XV exclui secos; incerteza sobre edulcorantes)",LLM_cego_2026_07,2026-07-06
+6902812,1.0,A,Regime geral art. 18: base/preparado para sorvete fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6904105,1.0,A,Regime geral art. 18: quindim (sobremesa acucarada) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6904202,1.0,A,Regime geral art. 18: pave (sobremesa) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6904204,1.0,A,Regime geral art. 18: leite geleificado (sobremesa preparada) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6904702,1.0,A,Regime geral art. 18: doce/confeito (beijo africano) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6904806,1.0,A,Regime geral art. 18: sorvete (NCM 21.05) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6905802,1.0,A,Regime geral art. 18: produto de chocolate (NCM 18.06) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6906403,0.4,C,Art. 135 + Anexo VII item 11 (polpa de fruta pos. 20.08 sem acucar/conservantes; residual incerto quanto a aditivos),LLM_cego_2026_07,2026-07-06
+6906414,0.4,C,Art. 135 + Anexo VII item 11 (polpa de goiaba pos. 20.08 sem acucar/conservantes; residual incerto),LLM_cego_2026_07,2026-07-06
+6906424,0.4,C,Art. 135 + Anexo VII item 11 (polpa de limao pos. 20.08 sem acucar/conservantes; residual incerto),LLM_cego_2026_07,2026-07-06
+6906603,0.0,A,Art. 125 + Anexo I item 14 (acucar NCM 1701.14.00/1701.99.00),LLM_cego_2026_07,2026-07-06
+6906802,0.0,A,"Art. 125 + Anexo I item 14 (acucar moido, NCM 1701.99.00)",LLM_cego_2026_07,2026-07-06
+6906902,1.0,A,Regime geral art. 18: adocante/edulcorante (NCM 2106/2924) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6907701,1.0,A,Regime geral art. 18: doce nao-especificado fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6908903,0.0,A,"Art. 125 + Anexo I item 14 (acucar comum organico, NCM 1701; organico nao altera classificacao NCM)",LLM_cego_2026_07,2026-07-06
+6909605,1.0,A,Regime geral art. 18: picole/sorvete (NCM 21.05) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6909808,1.0,A,Regime geral art. 18: goma de mascar (NCM 1704) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6909904,1.0,A,Regime geral art. 18: bala/caramelo (NCM 1704) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6910002,1.0,A,Regime geral art. 18: barra de chocolate (NCM 18.06) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6910318,1.0,A,Regime geral art. 18: composto achocolatado/maltado (NCM 1806/1901) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6910507,1.0,A,Regime geral art. 18: bombons (NCM 18.06) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6910906,1.0,A,Regime geral art. 18: pudim (sobremesa preparada) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6911202,1.0,A,Regime geral art. 18: bala de leite (NCM 1704) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+6913003,1.0,A,"Regime geral art. 18: cocada (doce de coco, NCM 1704/2008) fora de rol reduzido",LLM_cego_2026_07,2026-07-06
+7000701,1.0,A,"Regime geral art. 18: glutamato monossodico (aditivo, NCM 2922) fora de rol reduzido",LLM_cego_2026_07,2026-07-06
+7001003,1.0,A,Regime geral art. 18: canela (especiaria cap. 9 NCM) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+7001602,1.0,A,Regime geral art. 18: louro em po (especiaria NCM 0910) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+7001603,1.0,A,Regime geral art. 18: louro em folha (especiaria NCM 0910) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+7002104,1.0,A,Regime geral art. 18: tempero industrializado (preparacao NCM 2103) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+7002302,1.0,A,Regime geral art. 18: tempero industrializado (preparacao NCM 2103) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+7007002,1.0,A,Regime geral art. 18: molho preparado (NCM 2103) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+7007701,1.0,A,Regime geral art. 18: caldo/preparacao para caldo (NCM 2104) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+7009201,1.0,A,Regime geral art. 18: molho de pimenta (NCM 2103) fora de rol reduzido,LLM_cego_2026_07,2026-07-06
+7101103,0.0,A,"Art. 125 + Anexo I item 19 a (carne bovina fresca/refrigerada, pos. 02.01/02.02 NCM)",LLM_cego_2026_07,2026-07-06
+7104201,0.0,A,"Art. 125 + Anexo I item 19 b (miudezas suinas - bofe/pulmao, NCM 0206.4)",LLM_cego_2026_07,2026-07-06
+7104601,0.0,A,"Art. 125 + Anexo I item 19 b (figado suino - miudeza, NCM 0206.30.00/0206.4)",LLM_cego_2026_07,2026-07-06
+7105606,0.0,A,"Art. 125 + Anexo I item 19 c (carne ovina - paleta de carneiro, pos. 02.04 NCM)",LLM_cego_2026_07,2026-07-06
+7108703,0.0,A,"Art. 125 + Anexo I item 19 c (miudeza comestivel caprina - cabeca, NCM 0206.90.00)",LLM_cego_2026_07,2026-07-06
+7109401,0.0,A,"Art. 125 + Anexo I item 19 c (carne caprina - bode abatido, pos. 02.04/0210.99.90 NCM)",LLM_cego_2026_07,2026-07-06
+7110301,0.0,A,"Art. 125 c/c Anexo I, item 19 — miudezas comestíveis de caprinos (coração), NCM 0206.90.00; cesta básica nacional, alíquota zero",LLM_cego_2026_07,2026-07-06
+7110801,0.0,A,"Art. 125 c/c Anexo I, item 19 — carne bovina fresca/refrigerada (músculo), NCM 02.01/02.02; cesta básica nacional, alíquota zero",LLM_cego_2026_07,2026-07-06
+7203110,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro, NCM 03.02 (não salmonídeo/atum/bacalhau); cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7206103,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro, NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7207111,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (arraia/raia), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7207116,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (arraia), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7207120,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (arraia), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7208102,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro, NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7209101,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (pescadinha), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7209103,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (pescadinha), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7209301,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco em filé (pescadinha), NCM 03.04 (não salmonídeo/atum/bacalhau); cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7212107,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (vermelho), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7212109,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (vermelho), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7213101,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (cioba), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7214110,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro, NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7215104,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (carapeba), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7215106,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (carapeba), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7215109,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (mulatinho), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7219501,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe em filé congelado (manjuba), NCM 03.04 (não salmonídeo/atum/bacalhau); cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7220105,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (judeu), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7224103,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (serra), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7226101,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (roncador), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7227125,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (pescada), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7230121,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (robão), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7232105,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (xarelete), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7234103,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (pratiqueira), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7235136,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (bodinho), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7237103,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (bejupira), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7238122,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (jiriquiti), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7255104,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (mututuca), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7256501,1.0,B,Regime geral art. 18 — albacora é atum (Thunnus); atuns EXCLUÍDOS do Anexo I (item 20) e ausentes do Anexo VII; sem redução legal,LLM_cego_2026_07,2026-07-06
+7258109,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (espadarte/meca), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7259401,1.0,B,"Regime geral art. 18 — peixe salgado é NCM 03.05, fora do rol do Anexo I (03.02/03.03/03.04) e do Anexo VII; sem redução legal",LLM_cego_2026_07,2026-07-06
+7261115,0.4,A,"Art. 135 c/c Anexo VII, item 1 — siri/caranguejo (crustáceo NCM 0306.1/0306.3, fora das exclusões); redução de 60%",LLM_cego_2026_07,2026-07-06
+7264201,1.0,B,Regime geral art. 18 — ostra é molusco NCM 0307.1; rol de moluscos do Anexo VII item 1 inicia em 0307.31 e NÃO inclui ostras; sem redução legal,LLM_cego_2026_07,2026-07-06
+7271301,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco em filé (caicanha), NCM 03.04 (não salmonídeo/atum/bacalhau); cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7402129,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (espanharina), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7403401,1.0,B,"Regime geral art. 18 — peixe salgado é NCM 03.05, fora do rol do Anexo I (03.02/03.03/03.04) e do Anexo VII; sem redução legal",LLM_cego_2026_07,2026-07-06
+7404101,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (surubim), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7404116,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (surubim), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7404123,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (piraaca), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7405111,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (jacundá), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7406401,1.0,B,"Regime geral art. 18 — peixe salgado é NCM 03.05, fora do rol do Anexo I (03.02/03.03/03.04) e do Anexo VII; sem redução legal",LLM_cego_2026_07,2026-07-06
+7406501,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe em filé congelado (pirarucu), NCM 03.04 (não salmonídeo/atum/bacalhau); cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7407101,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (aracu), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7410113,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (curimbotá), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7411201,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco em postas (tucunaré), NCM 03.02/03.04; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7412121,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (acari), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7413102,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro, NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7419103,0.0,A,"Art. 125 c/c Anexo I, item 20 — peixe fresco/refrigerado inteiro (oleleiro), NCM 03.02; cesta básica, alíquota zero",LLM_cego_2026_07,2026-07-06
+7422201,0.0,A,"Art. 125 + Anexo I, item 20 (peixes e carnes de peixes frescos, tambaqui NCM 03.02/03.03/03.04, não excluído)",LLM_cego_2026_07,2026-07-06
+7423104,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco, não salmonídeo/atum/bacalhau)",LLM_cego_2026_07,2026-07-06
+7425102,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco)",LLM_cego_2026_07,2026-07-06
+7426103,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco)",LLM_cego_2026_07,2026-07-06
+7426117,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco)",LLM_cego_2026_07,2026-07-06
+7429102,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco)",LLM_cego_2026_07,2026-07-06
+7432103,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco, doirada do amazonas)",LLM_cego_2026_07,2026-07-06
+7433104,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco)",LLM_cego_2026_07,2026-07-06
+7433109,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco)",LLM_cego_2026_07,2026-07-06
+7433301,0.0,A,"Art. 125 + Anexo I, item 20 (peixe em filé fresco, NCM 03.04)",LLM_cego_2026_07,2026-07-06
+7439101,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco)",LLM_cego_2026_07,2026-07-06
+7439501,0.0,A,"Art. 125 + Anexo I, item 20 (peixe em filé congelado, NCM 03.04)",LLM_cego_2026_07,2026-07-06
+7442104,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco)",LLM_cego_2026_07,2026-07-06
+7442501,0.0,A,"Art. 125 + Anexo I, item 20 (peixe em filé congelado, NCM 03.04)",LLM_cego_2026_07,2026-07-06
+7447501,0.0,A,"Art. 125 + Anexo I, item 20 (peixe/mucua em filé congelado, NCM 03.04)",LLM_cego_2026_07,2026-07-06
+7456101,0.0,A,"Art. 125 + Anexo I, item 20 (peixe inteiro fresco cujuba)",LLM_cego_2026_07,2026-07-06
+7701101,1.0,C,Regime geral: legume em conserva não-especificado; conservas excluídas do Anexo XV e do Anexo VII (excetua 07.11); rubrica genérica indecidível,LLM_cego_2026_07,2026-07-06
+7701406,1.0,A,"Regime geral: sopa de legumes desidratada (yakissoba) é preparação alimentícia, fora dos róis reduzidos",LLM_cego_2026_07,2026-07-06
+7701602,1.0,A,Regime geral: pimenta malagueta em conserva; conservas (07.11) excluídas do Anexo VII item 14 e Anexo XV,LLM_cego_2026_07,2026-07-06
+7702708,1.0,C,"Regime geral: afiambrado (produto cárneo processado/preparado), fora do Anexo I (carnes frescas 02.0x); enquadramento incerto",LLM_cego_2026_07,2026-07-06
+7704502,1.0,A,"Regime geral: pescada em conserva (preparação de peixe NCM 16.04), fora do Anexo I item 20 (peixes frescos 03.xx)",LLM_cego_2026_07,2026-07-06
+7706103,1.0,A,"Regime geral: sopa concentrada em pacote (preparação alimentícia), fora dos róis reduzidos",LLM_cego_2026_07,2026-07-06
+7708801,1.0,A,"Regime geral: pasta de grão de bico (preparação alimentícia), fora dos róis reduzidos",LLM_cego_2026_07,2026-07-06
+7800204,1.0,C,"Regime geral: galinha temperada congelada; temperada = preparação (NCM 16.02), extrapola aves frescas/congeladas 02.07 do Anexo I item 19; incerto",LLM_cego_2026_07,2026-07-06
+7800304,0.0,A,"Art. 125 + Anexo I, item 19 d (carnes de aves NCM 02.07, galinha/frango)",LLM_cego_2026_07,2026-07-06
+7800602,0.0,A,"Art. 125 + Anexo I, item 19 d (carcaça de aves NCM 02.07)",LLM_cego_2026_07,2026-07-06
+7801601,0.0,A,"Art. 125 + Anexo I, item 19 d (peru congelado, carne de aves NCM 02.07)",LLM_cego_2026_07,2026-07-06
+7802801,1.0,C,"Regime geral: nambu (ave de caça, NCM 0208, não 02.07) abatido/congelado/vivo; não claramente no Anexo I item 19; conservador",LLM_cego_2026_07,2026-07-06
+7803003,1.0,C,"Regime geral: codorna viva (animal vivo NCM 01.06, não carne 02.07 do Anexo I); conservador",LLM_cego_2026_07,2026-07-06
+7803902,1.0,C,"Regime geral: pato vivo (animal vivo NCM 01.05, não carne 02.07 do Anexo I item 19); conservador",LLM_cego_2026_07,2026-07-06
+7805501,0.0,A,"Art. 125 + Anexo I, item 19 d (frango inteiro, carne de aves NCM 02.07; orgânico irrelevante)",LLM_cego_2026_07,2026-07-06
+7805504,0.0,A,"Art. 125 + Anexo I, item 19 d (frango caipira, carne de aves NCM 02.07)",LLM_cego_2026_07,2026-07-06
+7805703,0.0,A,"Art. 125 + Anexo I, item 19 d (filé de frango, carne de aves NCM 02.07)",LLM_cego_2026_07,2026-07-06
+7900106,0.0,A,"Art. 125 + Anexo I, item 2 (leite fluido longa vida integral p/ consumo direto, NCM 0401)",LLM_cego_2026_07,2026-07-06
+7900107,0.0,A,"Art. 125 + Anexo I, item 2 (leite tipo A integral, fluido p/ consumo direto NCM 0401)",LLM_cego_2026_07,2026-07-06
+7900704,0.0,A,"Art. 125 + Anexo I, item 3 (leite em pó desengordurado, NCM 0402)",LLM_cego_2026_07,2026-07-06
+7905103,0.0,A,"Art. 125 + Anexo I, item 21 (queijo mozarela/mussarela, NCM 0406.10; light irrelevante)",LLM_cego_2026_07,2026-07-06
+7905507,1.0,C,"Regime geral: leite beijinho dietético (doce/sobremesa láctea), não é leite fluido do Anexo I item 2 nem composto lácteo típico; incerto",LLM_cego_2026_07,2026-07-06
+7906008,0.0,B,"Art. 125 + Anexo I, item 21 (queijo Canastra = tipo minas artesanal, NCM 0406; aproximação de tipo)",LLM_cego_2026_07,2026-07-06
+7906505,1.0,C,Regime geral: queijo tipo danoninho (petit suisse adoçado/sobremesa láctea); não claramente 'queijo fresco não maturado' do Anexo I item 21; conservador,LLM_cego_2026_07,2026-07-06
+7907001,1.0,C,Regime geral: leite em pó com sabor (aromatizado); extrapola leite em pó puro NCM 0402 do Anexo I item 3; enquadramento incerto,LLM_cego_2026_07,2026-07-06
+7908401,1.0,A,Regime geral: queijo Gouda (maturado) não consta do rol taxativo do Anexo I item 21,LLM_cego_2026_07,2026-07-06
+8000132,1.0,A,Regime geral: pão seda (pão doce/macio) não é pão francês (Anexo I item 16) nem pão de forma (Anexo VII item 12),LLM_cego_2026_07,2026-07-06
+8000139,0.0,A,"Art. 125 + Anexo I, item 16 (mini pão francês; mesmo produto e descrição, NCM 1905.90.90)",LLM_cego_2026_07,2026-07-06
+8000502,1.0,C,Regime geral: 'Pão Seven Boys' (marca) não identifica tipo legal; não confirmado como pão francês nem pão de forma; conservador,LLM_cego_2026_07,2026-07-06
+8001105,1.0,A,Regime geral: pão brote (pão tipo alemão) não é pão francês nem pão de forma dos róis reduzidos,LLM_cego_2026_07,2026-07-06
+8002242,1.0,A,"Regime geral: biscoito Club Social; biscoitos/bolachas não constam dos róis reduzidos (NCM 1905.3, não os itens de pão)",LLM_cego_2026_07,2026-07-06
+8002404,1.0,A,Regime geral: biscoito de araruta; biscoitos fora dos róis reduzidos,LLM_cego_2026_07,2026-07-06
+8002405,1.0,A,Regime geral: quebra-quebra (biscoito/snack) fora dos róis reduzidos,LLM_cego_2026_07,2026-07-06
+8003408,1.0,A,Regime geral: preparo para bolo (mistura) não é a pré-mistura de pão francês do Anexo I item 16 nem outro rol reduzido,LLM_cego_2026_07,2026-07-06
+8004502,1.0,A,Broinha de coco = produto de padaria/biscoito NCM 1905; não é pão francês (Anexo I item 16) nem pão de forma (Anexo VII item 12); regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8004814,1.0,A,Biscoito recheado NCM 1905.31/32; fora de todos os anexos de redução; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8006511,0.4,A,"Pão de forma NCM 1905.90.10; Anexo VII item 12 (art. 135); redução de 60% -> m=0,40. 'Diet' não exclui.",LLM_cego_2026_07,2026-07-06
+8006519,0.4,A,"Pão de forma NCM 1905.90.10; Anexo VII item 12 (art. 135) -> m=0,40.",LLM_cego_2026_07,2026-07-06
+8006524,0.4,B,"Wickbold = linha de pão de forma NCM 1905.90.10; Anexo VII item 12 (art. 135) -> m=0,40; descritor 'dietético' ambíguo, aproximação declarada.",LLM_cego_2026_07,2026-07-06
+8007301,1.0,A,Sonho = massa doce frita/recheada NCM 1905.90.90; não é pão de forma/francês; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8009804,1.0,B,Rosca não-especificada NCM 1905.90.90; não é pão de forma (Anexo VII) nem pão francês (Anexo I); regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8009805,1.0,B,Rosquinha/biscoito NCM 1905; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010066,1.0,C,Chisbag (snack/biscoito de queijo) NCM 1905; classificação genérica; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010108,1.0,A,Biscoito NCM 1905; fora dos róis de redução; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010403,1.0,A,Biscoito de manteiga NCM 1905; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010409,1.0,C,'Solda' = biscoito/produto de padaria NCM 1905; descritor obscuro; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010543,1.0,A,Biscoito de manteiga NCM 1905; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010545,1.0,A,Sequilho = biscoito NCM 1905; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010548,1.0,A,Biscoito amanteigado NCM 1905; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010573,1.0,A,Bolacha com leite = biscoito NCM 1905; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8010601,1.0,A,Bolo de banana NCM 1905.90; fora dos róis de redução; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8100104,0.0,A,"Charque = carne bovina seca/salgada NCM 0210.20.00; Anexo I item 19 alínea 'a' (art. 125); alíquota zero -> m=0,00.",LLM_cego_2026_07,2026-07-06
+8101001,0.0,A,"Toucinho de porco defumado = barriga suína salgada/defumada NCM 0210.1; Anexo I item 19 alínea 'b' (art. 125) -> m=0,00.",LLM_cego_2026_07,2026-07-06
+8101006,0.0,A,"Bacon defumado = barriga suína NCM 0210.12 (subposição 0210.1); Anexo I item 19 alínea 'b' (art. 125) -> m=0,00.",LLM_cego_2026_07,2026-07-06
+8102002,0.0,B,"Miudo de porco salgado = miudezas suínas salgadas NCM 0209.90.00/0210.99.1; Anexo I item 19 alínea 'd' (art. 125) -> m=0,00; enquadramento por subposição.",LLM_cego_2026_07,2026-07-06
+8102301,1.0,C,Retalho para pizza = carne processada/preparada NCM 1602; fora do Anexo I (só 0210 salgada/seca entra); regime geral art. 12; descritor indefinido.,LLM_cego_2026_07,2026-07-06
+8102404,1.0,B,"'Queijo de porco' = queijo de cabeça, preparação de carne suína NCM 1602; não é 0210; fora dos róis; regime geral art. 12.",LLM_cego_2026_07,2026-07-06
+8102405,1.0,B,Morcilha/morcela = embutido (chouriço de sangue) NCM 1601; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8102602,1.0,A,Mortadela = embutido NCM 1601; não integra Anexo I (que só alcança 0210); regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8103101,1.0,A,Hamburguer = preparação de carne NCM 1602; fora dos róis de redução; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8103402,1.0,A,Pasta de fígado embutida = patê NCM 1602.20; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8105304,1.0,A,Linguiça = embutido NCM 1601; fora dos róis (Anexo I só alcança 0210); regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8106601,1.0,B,Linguiça de soja = análogo vegetal NCM 2106/2004; fora de todos os róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8106901,1.0,C,Bolinha de queijo semipronta = preparação alimentícia NCM 2106/1902; fora dos róis; regime geral art. 12; descritor genérico.,LLM_cego_2026_07,2026-07-06
+8200504,1.0,A,Grapete = refrigerante NCM 2202.10; fora dos róis (Anexo VII só alcança 2202.99 lácteos); regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8200803,1.0,A,Pepsi Diet = refrigerante de cola NCM 2202.10; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8201007,1.0,A,Água mineral com gás NCM 2201.10; não consta de Anexo I/VII/XV; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8201105,1.0,B,Mate limão = bebida pronta à base de mate NCM 2202 (não é mate seco da posição 09.03/Anexo I item 23); regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8201301,1.0,A,Refrigerante NCM 2202.10; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8201510,1.0,A,Refrigerante de laranja NCM 2202.10; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8204201,1.0,A,Refrigerante de tutti-frutti NCM 2202.10; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8204601,1.0,A,Refrigerante de caju NCM 2202.10; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8208202,1.0,B,Bidu = refrigerante/guaraná NCM 2202.10; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8211006,1.0,A,Pó de refresco = preparação para bebida NCM 2106.90; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8211201,1.0,B,Chocolate engarrafado/encartonado = bebida achocolatada NCM 1806/2202; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8211502,1.0,B,Xarope de fruta = preparação para bebida NCM 2106.90 (não é suco da posição 20.09); regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8211702,1.0,B,Xarope de fruta encartonado NCM 2106.90 (não é suco 20.09/Anexo VII item 10); regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8214601,1.0,B,Aromatizante de bebidas = preparação aromática NCM 2106/3302; fora dos róis; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8219201,1.0,C,Chá de açaí = bebida pronta NCM 2202; fora dos róis; regime geral art. 12; descritor genérico.,LLM_cego_2026_07,2026-07-06
+8301601,1.0,A,Conhaque = bebida alcoólica destilada NCM 2208; bebidas alcoólicas em regime geral (não integram redução); art. 12.,LLM_cego_2026_07,2026-07-06
+8302403,1.0,A,Vinho tinto = bebida alcoólica NCM 2204; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8302408,1.0,A,Vinho quinado = vinho aromatizado NCM 2205; bebida alcoólica; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8303001,1.0,A,Underberg = licor amargo NCM 2208; bebida alcoólica; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8303701,1.0,A,Aguardente de cana (cachaça) NCM 2208.40; bebida alcoólica; regime geral art. 12.,LLM_cego_2026_07,2026-07-06
+8401402,0.4,B,"Art. 135 + Anexo VII, item 8 (demais oleos vegetais comestiveis, pos. 15.11-15.15 NCM/SH; oleo de coco/tucum nao e babacu do Anexo I). Aproximacao por NCM.",LLM_cego_2026_07,2026-07-06
+8401503,0.4,B,"Art. 135 + Anexo VII, item 8 (demais oleos vegetais comestiveis, pos. 15.11-15.15 NCM/SH; oleo de ouricuri nao consta do Anexo I). Aproximacao por NCM.",LLM_cego_2026_07,2026-07-06
+8401504,0.4,B,"Art. 135 + Anexo VII, item 8 (demais oleos vegetais comestiveis, pos. 15.11-15.15 NCM/SH; oleo de licuri nao consta do Anexo I). Aproximacao por NCM.",LLM_cego_2026_07,2026-07-06
+8402901,0.4,A,"Art. 135 + Anexo VII, item 8 (oleo de canola citado nominalmente). Correspondencia direta.",LLM_cego_2026_07,2026-07-06
+8404201,0.4,B,"Art. 135 + Anexo VII, item 8 (demais oleos vegetais comestiveis, pos. 15.11-15.15 NCM/SH; azeite de macauba nao consta do Anexo I). Aproximacao por NCM.",LLM_cego_2026_07,2026-07-06
+8500317,0.6,B,Arts. 273-275 (fornecimento de alimentacao por bares/restaurantes/lanchonetes; sanduiche preparado 'para viagem'). Aproximacao da rubrica food-service.,LLM_cego_2026_07,2026-07-06
+8500410,0.6,B,"Arts. 273-275 c/c art. 273 §1 (bebida nao alcoolica preparada no estabelecimento, 'para viagem'). Aproximacao food-service.",LLM_cego_2026_07,2026-07-06
+8500605,0.6,B,"Arts. 273-275 c/c art. 273 §1 (refresco/bebida nao alcoolica preparada, 'para viagem'). Aproximacao food-service.",LLM_cego_2026_07,2026-07-06
+8501203,0.6,B,Arts. 273-275 (alimentacao preparada por lanchonete; pipoca salgada 'para viagem'). Aproximacao food-service.,LLM_cego_2026_07,2026-07-06
+8503205,0.6,B,Arts. 273-275 (prato preparado por bar/restaurante; caldo de siri 'para viagem'). Aproximacao food-service.,LLM_cego_2026_07,2026-07-06
+8505101,0.6,B,Arts. 273-275 (alimentacao preparada; canjica 'para viagem'). Aproximacao food-service.,LLM_cego_2026_07,2026-07-06
+8505501,0.6,B,Arts. 273-275 (prato preparado por bar/restaurante; arrumadinho 'para viagem'). Aproximacao food-service.,LLM_cego_2026_07,2026-07-06
+8506801,0.6,B,Arts. 273-275 (alimentacao preparada; quiche 'para viagem'). Aproximacao food-service.,LLM_cego_2026_07,2026-07-06
+8509601,0.6,B,"Arts. 273-275 (alimentacao 'para viagem'; batata palha industrializada, mas rubrica food-service). Aproximacao food-service.",LLM_cego_2026_07,2026-07-06
+8602407,1.0,A,"Regime geral, art. 12 (produto de limpeza/aromatizante domestico; nao consta de rol reduzido). Correspondencia direta ao regime padrao.",LLM_cego_2026_07,2026-07-06
+8604402,1.0,A,"Regime geral, art. 12 (embalagem aluminizada; bem generico fora de rol reduzido). Correspondencia direta.",LLM_cego_2026_07,2026-07-06
+8604901,1.0,A,"Regime geral, art. 12 (formas/copos de papel-papelao descartaveis; bem generico fora de rol reduzido). Correspondencia direta.",LLM_cego_2026_07,2026-07-06
+8606104,1.0,A,"Regime geral, art. 12 (limpa-carpete; produto de limpeza fora do rol de higiene popular do Anexo VIII). Correspondencia direta.",LLM_cego_2026_07,2026-07-06
+8700903,1.0,A,"Regime geral: alimento para passaro (animal domestico) excluido dos insumos agropecuarios reduzidos (Anexo IX, itens 19-20, 'exceto de animais domesticos'). Correspondencia direta ao regime padrao.",LLM_cego_2026_07,2026-07-06
+9000501,0.0,B,"Art. 125 + Anexo I (Cesta Basica Nacional de Alimentos, aliquota zero). Rubrica composta 'cesta basica' aproximada ao rol zero-rated; aproximacao declarada.",LLM_cego_2026_07,2026-07-06

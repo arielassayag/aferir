@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  Cite este repositório como o espelho de replicação do artigo submetido ao
+  31º Prêmio Tesouro Nacional 2026 (Tema 3) sob o pseudônimo AFERIDOR.
+  A autoria nominal será divulgada após o fim da avaliação cega do certame.
+title: >-
+  AFERIR — Alíquotas Federativas de Referência sob Insumos Replicáveis
+type: software
+authors:
+  - name: AFERIDOR (pseudônimo)
+version: 1.0.0
+date-released: "2026-07-11"
+keywords:
+  - federalismo fiscal
+  - alíquota de referência
+  - reforma tributária
+  - dados abertos
+  - CBS
+  - IBS
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    As Três Alíquotas da Federação: calibração ex-ante das alíquotas de
+    referência da CBS e do IBS e o equilíbrio interfederativo sob dados
+    abertos
+  authors:
+    - name: AFERIDOR (pseudônimo)
+  year: 2026
+  notes: >-
+    Submetido ao 31º Prêmio Tesouro Nacional, Tema 3 (Federalismo Fiscal e
+    Equilíbrio Interfederativo), sob avaliação cega.

@@ -1,0 +1,10 @@
+{
+ "bytes": 43484,
+ "collected_at": "2026-07-12T19:36:40.848325+00:00",
+ "nota": "'SN ARRECADAÇÃO ATÉ JAN 26.xlsx' — arrecadação do Simples Nacional a preços correntes, R$ mi, abas ANUAL (2007-) e MENSAL, repartição UNIÃO×ESTADOS×MUNICÍPIOS (ICMS-Simples = coluna ESTADOS; ISS-Simples = coluna MUNICÍPIOS); link público da página EstatisticasArrecadacao.aspx",
+ "origem": "download",
+ "pagina": "https://www8.receita.fazenda.gov.br/SimplesNacional/ConteudoApoio/Arrecadacao/EstatisticasArrecadacao.aspx",
+ "sha256": "95cea6bb06fa89c465a8db6546378baa98705d92f3622e2af1169cad358fd40c",
+ "status_http": 200,
+ "url": "https://www8.receita.fazenda.gov.br/SimplesNacional/Arquivos/estatisticaArrecadacao/SN%20ARRECADA%C3%87%C3%83O%20AT%C3%89%20JAN%2026.xlsx"
+}

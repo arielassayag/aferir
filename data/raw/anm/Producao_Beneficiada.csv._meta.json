@@ -1,0 +1,9 @@
+{
+ "bytes": 678037,
+ "collected_at": "2026-07-12T19:36:23.003939+00:00",
+ "nota": "Anuário Mineral Brasileiro (dados abertos ANM): quantidade e VALOR (R$) de venda/transformação por substância×UF×ano-base — proxy aberto de valor de operação para o cenário sens_is_ampliado",
+ "origem": "download",
+ "sha256": "02c429a8ec9e4845d75e5eb7fa7efd10faaa714b622286f8d4726fb250edd024",
+ "status_http": 200,
+ "url": "https://dadosabertos.anm.gov.br/AMB/Producao_Beneficiada.csv"
+}

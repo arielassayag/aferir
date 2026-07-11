@@ -1,0 +1,32 @@
+chave,valor,formula,fonte
+pi_p_nacional,0.2504676207974756,"Σ w_i(1−m_i)/Σ w_i, i∉F, ex-combustíveis",matriz v5 × POF
+mediana_tau_E_uf,16.89638777254473,mediana do vetor estadual,aferir_vetor_uf.csv
+mediana_tau_M_uf,1.711903733048898,mediana do vetor municipal,aferir_vetor_uf.csv
+n_uf_acima_ref_E,16.0,nº de UFs com τ_E^uf > referência estadual central,aferir_vetor_uf.csv × aferir_nacional.csv
+cv_tau_E_uf,0.35159985644092445,desvio-padrão (ddof=1) ÷ média do vetor estadual (27 UFs),aferir_vetor_uf.csv
+cv_tau_M_uf,0.47490553905784705,desvio-padrão (ddof=1) ÷ média do vetor municipal,aferir_vetor_uf.csv
+delta_B_A_pldo_pp,5.899075010805003,"Σ_B(central) − Σ_A(variante PLDO 4,47% PIB)",aferir_nacional.csv × aferir_ancoras.csv
+delta_B_A_ancora_pp,4.485252053894428,Σ_B(central) − Σ_A(âncora legal 2012-2021),aferir_nacional.csv × aferir_ancoras.csv
+top1_iss,25.70207274156462,share do maior município no ISS 2024,iss_concentracao.csv
+top10_iss,44.16711055357014,share top-10,iss_concentracao.csv
+top100_iss,71.78595740506385,share top-100,iss_concentracao.csv
+share_sp_iss,43.555426995412056,ISS dos municípios de SP / nacional (janela),r_municipal_uf.csv
+share_sp_base,30.01033335626067,base de destino de SP / nacional,base_uf.csv
+g_municipal_janela,385.05824833960133,"aquisições municipais, média janela (R$ bi 2024)",g_esferas.csv
+cobertura_dca_2024,99.25000000000001,cobertura média DCA municipal 2024,r_municipal_uf.csv
+escala_bienio,1.3767888373348187,C_fam janela / C_fam 2021,SIDRA 1846 c93404
+escala_bienio_fbcf,1.24920139918288,FBCF janela / FBCF 2021,SIDRA 1846 c93406
+is_estimado_bi,17.600147300803357,"proxy iso-carga do IS: IPI fumo+bebidas+automóveis, média janela deflacionada (cota inferior do IS)",XLSX RFB (linhas I.P.I-*); LC 214 art. 409 + Anexo XVII
+ancora_federal_liquida_pct_pib,5.126971,"âncora art. 353 na convenção líquida-RTN (central, Tema 69)",ancora_uniao.csv (RTN/STN Tabela 2.2)
+deducao_art353_em_A_pp,0.3636359435880138,(IS_estimado + IPI_residual) ÷ B* — efeito da correção art. 353 §1º sobre τ_CBS^A nas DUAS variantes,aferir_ancoras.csv
+efeito_is_proxy_pp,-0.44213158737364466,Σ(central) − Σ(IS=0): efeito isolado do proxy iso-carga do IS na manchete (negativo = IS reduz τ_CBS),aferir_nacional.csv (linhas sens_*)
+efeito_ancora_liquida_pp,0.03805545920985054,"Σ(central, âncora líquida-RTN) − Σ(âncora bruta-RFB): efeito isolado da convenção Tema 69 (sinal empírico)",aferir_nacional.csv (linhas sens_*)
+ponte_b_a_total_pp,5.899075010805003,"Σ_B(central) − Σ_A(comparável, meta PLDO)",aferir_nacional.csv × aferir_ancoras.csv
+ponte_b_a_gamma_pp,4.066608932307201,efeito do hiato de conformidade: Σ_B(central) − Σ_B(γ=0),aferir_nacional.csv
+ponte_b_a_ancora_pp,1.4138229569105754,efeito da variante federal: Σ_A(rito) − Σ_A(comparável),aferir_ancoras.csv
+ponte_b_a_residuo_pp,0.41864312158722683,resíduo conceitual da ponte: base realizada × potencial e numerador cheio/IS da construção A,derivado das três linhas ponte_b_a_*
+delta_A_variantes_pp,1.4138229569105754,"Σ_A(rito, âncora legal 2012-2021) − Σ_A(comparável, meta PLDO)",aferir_ancoras.csv
+cobertura_econ_2024,99.9458476284304,"ISS declarado ÷ (declarado + imputado), participação econômica",coverage_siconfi.csv (A6)
+cobertura_econ_2025,99.63547522641156,"ISS declarado ÷ (declarado + imputado), participação econômica",coverage_siconfi.csv (A6)
+amplitude_g_municipal_pp,0.22311644392391994,"máx − mín de τ_M no corredor de perímetros de G (central, g_min, g_max, natureza 36 desligada)",aferir_nacional.csv (A5)
+amplitude_g_soma_pp,0.5240916601705052,máx − mín da SOMA no corredor de perímetros de G,aferir_nacional.csv (A5)

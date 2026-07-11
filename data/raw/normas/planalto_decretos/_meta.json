@@ -1,0 +1,27 @@
+{
+ "arquivos": {
+  "d10638.htm": {
+   "bytes": 18171,
+   "sha256": "552453a6df645d77287ee1ff4911ca05d355bee3a4042c72d80008da616082d3",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10638.htm"
+  },
+  "d5059.htm": {
+   "bytes": 26461,
+   "sha256": "fd5cd8f56db4c2811a66e48e8a306a85212ed0f6580794bee0e3e35fb0984192",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5059.htm"
+  },
+  "d9101.htm": {
+   "bytes": 14858,
+   "sha256": "bfbd8bc99b799b23b7f66247673d5b12cbc76181186a4baee985a902f7cfc598",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9101.htm"
+  },
+  "d9391.htm": {
+   "bytes": 17133,
+   "sha256": "8fe8cce50a33c9ea11e75e475cd96702f80d2502cde169eeaea2bb32677d09dc",
+   "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9391.htm"
+  }
+ },
+ "collected_at": "2026-07-12T19:30:07.450065+00:00",
+ "fonte": "Planalto — Decreto 5.059/2004 (texto compilado, com alteradores anotados) e decretos alteradores das alíquotas ad rem de PIS/Cofins sobre combustíveis",
+ "nota": "d5059.htm é a versão COMPILADA (inclui redações dos Decretos 8.395/2015, 9.101/2017, 9.391/2018, 10.638/2021 e as reduções transitórias de 2026 — 12.875/12.924/12.991); encoding windows-1252"
+}

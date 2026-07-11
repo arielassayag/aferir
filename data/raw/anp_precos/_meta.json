@@ -1,0 +1,12 @@
+{
+ "bytes": 2786587,
+ "collected_at": "2026-07-13T12:29:08.347847+00:00",
+ "fonte": "ANP-SLP, Série Histórica do Levantamento de Preços — Mensal — Estados (desde jan/2013), preço médio de revenda em R$/l — dado aberto, sem credencial",
+ "nota_coleta": "collected_at inferido do mtime do XLSX pré-existente (vintage congelada; meta gravado a posteriori)",
+ "nota_fonte_viva": "fonte VIVA: a ANP regrava o mesmo arquivo com meses novos; paridade entre vintages afere-se por igualdade numérica dos preços consumidos (ETANOL HIDRATADO, 27 UFs × 24 meses de 2024-2025), não por sha256",
+ "pagina": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos",
+ "sha256": {
+  "mensal-estados-desde-jan2013.xlsx": "3dc1fe1123b5f007ba8a6801f31a4cd0d80721bda7d0178c7a0d71e20ae641d9"
+ },
+ "url": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/shlp/mensal/mensal-estados-desde-jan2013.xlsx"
+}

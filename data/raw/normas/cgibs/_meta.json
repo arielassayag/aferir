@@ -1,0 +1,11 @@
+{
+ "collected_at": "2026-07-12T19:26:00+00:00",
+ "url_oficial": "https://www.cgibs.gov.br/upload/arquivos/202604/30084927-res-cgibs-n-6-30-abr-2026-regulamenta-o-ibs.pdf",
+ "fonte": "CGIBS — Resolucao n. 6, de 30 de abril de 2026 (Regulamento do IBS); catalogo: https://www.cgibs.gov.br/resolucoes",
+ "nota_download": "servidor www.cgibs.gov.br sem resposta em 2026-07-12; o MESMO caminho respondeu no apex https://cgibs.gov.br/... (mesmo IP 200.198.128.227, HTTP 200, content-length 2896452, last-modified 2026-04-30)",
+ "conteudo_usado": "Livro III, Titulo II, Capitulo II: arts. 598-609 (fixacao das aliquotas de referencia do IBS 2029-2035) e art. 610 (redutor das compras publicas, art. 370 LC 214) — paginas 192-200",
+ "paginas": 252,
+ "sha256": {
+  "res_cgibs_6_2026_regulamento_ibs.pdf": "9ed7032ef9c25bbee51bdb5e90f60e1ad01a2bf56cb41a28221c3db7f61d419a"
+ }
+}

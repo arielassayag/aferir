@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.venv/
+*.egg-info/
+~$*
+
+# Política de dados brutos: todos os brutos PEQUENOS ficam pinados no
+# repositório (vintage congelada, byte-estável, hashes nos _meta.json).
+# Só os dois VOLUMOSOS ficam fora do git — `make fetch` os refaz das
+# fontes públicas com verificação sha256 contra os pins
+# (data/raw/pof/_meta.json e data/processed/_seed_manifest.json):
+data/raw/pof/dados_raw/
+data/raw/siconfi_municipal_dca/*.parquet
+
+# Fontes tipográficas proprietárias (Helvetica Neue): não redistribuídas.
+# Em macOS, `make fontes` as extrai do sistema; fallback = DejaVu Sans.
+assets/fonts/*.ttf
+
+# DCAs estaduais soltas: materializadas do snapshot (snapshot/*.tar.gz);
+# soltas fora do git (heuristica texto/binario de espelhos anonimizadores
+# pode corromper binarios de alta entropia servidos soltos).
+data/raw/siconfi_estadual/*.parquet
+
+# Literatura de terceiros (FMI TNM, VAT Gap UE): consultada para o corredor de
+# conformidade (E8), citada no referencias.bib com URL; NAO redistribuida
+# (direito autoral) e NAO consumida pelo pipeline.
+data/raw/literatura/

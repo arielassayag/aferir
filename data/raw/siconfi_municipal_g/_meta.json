@@ -1,0 +1,12 @@
+{
+ "collected_at": "2026-07-10T16:42:48.876702+00:00",
+ "endpoint_dca": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio={ano}&no_anexo=DCA-Anexo I-D&id_ente={cod_ibge}",
+ "fonte": "API SICONFI (Tesouro Nacional) — dados abertos, sem credencial",
+ "metodo": "amostra capitais + top-200 populacao (fallback FINBRA/hCaptcha); universo e populacao: /entes esfera M, ex-Brasilia",
+ "n_municipios_2024": 200,
+ "n_municipios_2025": 200,
+ "sha256": {
+  "dca_g_amostra_2024_ID.parquet": "e984dbda3f46471bc1246ba4d9875a943e57cf805693b7f27245f1ae930443e9",
+  "dca_g_amostra_2025_ID.parquet": "d64e3d21b943aa644dfb97ef29a97ee3b10d753a3fe43ddd5d17786c40fb04a6"
+ }
+}

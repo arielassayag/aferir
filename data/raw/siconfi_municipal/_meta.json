@@ -1,0 +1,22 @@
+{
+ "collected_at": "2026-07-10T17:30:44.170561+00:00",
+ "colunas": [
+  "Receitas Brutas Realizadas",
+  "Outras Deduções da Receita"
+ ],
+ "conta_iss": "RO1.1.1.4.51.1.0",
+ "endpoint_dca": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio={ano}&no_anexo=DCA-Anexo I-C&id_ente={cod_ibge}",
+ "endpoint_entes": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/entes",
+ "endpoint_rreo_df": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rreo?an_exercicio={ano}&nr_periodo=6&co_tipo_demonstrativo=RREO&id_ente=53",
+ "falhas_2024": 0,
+ "falhas_2025": 0,
+ "fonte": "API SICONFI (Tesouro Nacional) — dados abertos, sem credencial",
+ "n_entes": 5598,
+ "n_municipios_2024": 5570,
+ "n_municipios_2025": 5570,
+ "sha256": {
+  "dca_iss_2024.parquet": "23c91acd36062b2199e75f14fcc7187d49cb5b7b7abf014c088f620734b7de6a",
+  "dca_iss_2025.parquet": "0e133ce69afd938710e0f9c82b4fdf1f3a0165ea64e9c5ffe559799b626d4646",
+  "entes.parquet": "d758d05726707d7ecf9957d35e4de7244453581b3eacf83bf16a896e0095c22f"
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "desacordo": {
+  "cobertura_amostra_base_pi": 0.5322461744477047,
+  "cobertura_amostra_base_pi_dirigida": 0.4240960873502439,
+  "cobertura_amostra_base_pi_original": 0.10815008709746085,
+  "cobertura_amostra_despesa_total": 0.44006680330121845,
+  "despesa_divergente_sobre_base_pi": 0.10690025710603364,
+  "kappas": {
+   "combinada": {
+    "kappa_F_binario": 0.7995857068876226,
+    "kappa_m_linear_ex_F": 0.6879118778875097,
+    "kappa_m_raw_ex_F": 0.6581183396963739,
+    "n": 516,
+    "n_em_campo_ambos": 488
+   },
+   "dirigida": {
+    "kappa_F_binario": 0.0,
+    "kappa_m_linear_ex_F": 0.914675767918089,
+    "kappa_m_raw_ex_F": 0.9038461538461536,
+    "n": 46,
+    "n_em_campo_ambos": 40
+   },
+   "original": {
+    "kappa_F_binario": 0.9234943027672278,
+    "kappa_m_linear_ex_F": 0.6705726989353812,
+    "kappa_m_raw_ex_F": 0.6371371257711667,
+    "n": 470,
+    "n_em_campo_ambos": 448
+   }
+  },
+  "n_amostra": 516,
+  "n_amostra_dirigida": 46,
+  "n_amostra_original": 470,
+  "n_divergentes": 118,
+  "n_divergentes_por_amostra": {
+   "dirigida_peso_top50": 8,
+   "original": 110
+  },
+  "n_por_tipo": {
+   "campo_diverge": 9,
+   "m_diverge": 109
+  },
+  "nota_honestidade": "Amostra combinada (estratificada + dirigida pelo peso, R6): todo item do top-50% da despesa da base de π^p foi dupla-codificado; cobertura de 53.2% da despesa da base. A incerteza de classificação do resíduo não amostrado (46.8% da despesa da base, cauda de itens de baixo peso individual) segue não capturada pelos envelopes e pelo bootstrap conjunto — resíduo DELIMITADO, declarar no manuscrito.",
+  "pct_despesa_amostrada_em_desacordo": 0.17576251188019693,
+  "pct_itens_em_desacordo": 0.22868217054263565
+ },
+ "execucao": "canonica_B500",
+ "intervalos": {
+  "f_low_nacional": {
+   "amostragem_pof": {
+    "largura": 0.005444704377841045,
+    "p5": 0.09402266171807795,
+    "p50": 0.09678714621313811,
+    "p95": 0.099467366095919
+   },
+   "classificacao": {
+    "largura": 0.0,
+    "p5": 0.09667426284415015,
+    "p50": 0.09667426284415015,
+    "p95": 0.09667426284415015
+   },
+   "conjunto": {
+    "largura": 0.005444704377841045,
+    "p5": 0.09402266171807795,
+    "p50": 0.09678714621313811,
+    "p95": 0.099467366095919
+   }
+  },
+  "pi_p_nacional": {
+   "amostragem_pof": {
+    "largura": 0.006298004281574426,
+    "p5": 0.2474336417951398,
+    "p50": 0.2505528133226507,
+    "p95": 0.2537316460767142
+   },
+   "classificacao": {
+    "largura": 0.015577537621294046,
+    "p5": 0.25039594525454045,
+    "p50": 0.2579731219452922,
+    "p95": 0.2659734828758345
+   },
+   "conjunto": {
+    "largura": 0.016970464048195716,
+    "p5": 0.2495174921961388,
+    "p50": 0.2581075353208516,
+    "p95": 0.2664879562443345
+   }
+  },
+  "soma_pp": {
+   "amostragem_pof": {
+    "largura": 0.24878384012633603,
+    "p5": 32.422740927234784,
+    "p50": 32.54400782204188,
+    "p95": 32.67152476736112
+   },
+   "classificacao": {
+    "largura": 0.6445565766103627,
+    "p5": 32.52576560642413,
+    "p50": 32.832951859183055,
+    "p95": 33.17032218303449
+   },
+   "conjunto": {
+    "largura": 0.7220264578644944,
+    "p5": 32.49716832378807,
+    "p50": 32.84638533668791,
+    "p95": 33.21919478165256
+   }
+  },
+  "tau_CBS_pp": {
+   "amostragem_pof": {
+    "largura": 0.1038212502965159,
+    "p5": 13.485048493097429,
+    "p50": 13.535362261046119,
+    "p95": 13.588869743393944
+   },
+   "classificacao": {
+    "largura": 0.2681839691269392,
+    "p5": 13.527829870752644,
+    "p50": 13.655694004434224,
+    "p95": 13.796013839879583
+   },
+   "conjunto": {
+    "largura": 0.30190243510993753,
+    "p5": 13.515781378152461,
+    "p50": 13.661182717545294,
+    "p95": 13.817683813262398
+   }
+  },
+  "tau_E_pp": {
+   "amostragem_pof": {
+    "largura": 0.12349404329572167,
+    "p5": 16.096380489665908,
+    "p50": 16.156801205952817,
+    "p95": 16.21987453296163
+   },
+   "classificacao": {
+    "largura": 0.31990090452475073,
+    "p5": 16.147476101453258,
+    "p50": 16.299892075712535,
+    "p95": 16.46737700597801
+   },
+   "conjunto": {
+    "largura": 0.35912640605769397,
+    "p5": 16.131363052604726,
+    "p50": 16.306710224565318,
+    "p95": 16.49048945866242
+   }
+  },
+  "tau_M_pp": {
+   "amostragem_pof": {
+    "largura": 0.021799993057831646,
+    "p5": 2.8414405550772663,
+    "p50": 2.852106423328496,
+    "p95": 2.863240548135098
+   },
+   "classificacao": {
+    "largura": 0.05647104355579202,
+    "p5": 2.850460293621113,
+    "p50": 2.877365779036295,
+    "p95": 2.906931337176905
+   },
+   "conjunto": {
+    "largura": 0.06339539098411695,
+    "p5": 2.847615910656039,
+    "p50": 2.878569364194666,
+    "p95": 2.9110113016401558
+   }
+  }
+ },
+ "parametros": {
+  "B": 500,
+  "regra_sorteio": "cada item divergente recebe a leitura do codificador 2 com probabilidade 1/2 por réplica (senão codificador 1 = matriz central); RNG PCG64(SeedSequence([seed, 1])), independente do fluxo Rao-Wu; Z indexada [réplica, item ordenado]",
+  "seed": 42,
+  "universo_sorteio": "itens divergentes da amostra COMBINADA de dupla codificação (data/inputs/dupla_codificacao_2026_07.csv, estratificada, + data/inputs/dupla_codificacao_dirigida_2026_07.csv, dirigida pelo peso R6: top-50% da despesa da base de π^p; dedup com a original prevalecendo) — itens NÃO amostrados não são perturbados; resíduo DELIMITADO à cauda de itens de baixo peso (< 47% da despesa da base)"
+ }
+}

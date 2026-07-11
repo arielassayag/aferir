@@ -1,0 +1,9 @@
+{
+ "bytes": 993218,
+ "collected_at": "2026-07-12T19:36:22.676265+00:00",
+ "nota": "Anuário Mineral Brasileiro (dados abertos ANM): quantidade e VALOR (R$) de venda/transformação por substância×UF×ano-base — proxy aberto de valor de operação para o cenário sens_is_ampliado",
+ "origem": "download",
+ "sha256": "a1cfd0d72fe11a779e0068c51b474b6e81d245b898909e1573ff3461e5291b20",
+ "status_http": 200,
+ "url": "https://dadosabertos.anm.gov.br/AMB/Producao_Bruta.csv"
+}

@@ -1,0 +1,9 @@
+{
+ "bytes": 58653,
+ "collected_at": "2026-07-12T19:52:04.268327+00:00",
+ "descricao": "SIDRA/PAIC agregado 1740 (2021): valor das incorporações, obras e/ou serviços das empresas de construção com 30+ PO, var 1246, classificação 358 (classes CNAE x produtos PRODLIST-Construção), Brasil",
+ "origem": "download",
+ "sha256": "5c87a268e816d7703cad4380c67806d8ecfd6b8fb0865959546709562f27f3d7",
+ "status_http": 200,
+ "url": "https://servicodados.ibge.gov.br/api/v3/agregados/1740/periodos/2021/variaveis/1246?localidades=N1[all]&classificacao=358[all]"
+}

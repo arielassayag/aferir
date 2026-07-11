@@ -1,0 +1,19 @@
+{
+ "bytes": 21628,
+ "collected_at": "2026-07-12T19:34:16.904225+00:00",
+ "nota_fonte_viva": "o SCN Trimestral revisa trimestres já publicados; vintage congelada pela existência do arquivo",
+ "origem": "download",
+ "parametros": {
+  "c11255": [
+   "90707",
+   "93404"
+  ],
+  "nivel": "n1",
+  "periodos": "201501-202504",
+  "tabela": 1846,
+  "variavel": 585
+ },
+ "sha256": "b1e9e1fa4d09846abd863bae25650fe9b351c5ced76bd2f294ce2858a4409520",
+ "status_http": 200,
+ "url": "https://apisidra.ibge.gov.br/values/t/1846/n1/all/v/585/p/201501-202504/c11255/90707,93404?formato=json"
+}

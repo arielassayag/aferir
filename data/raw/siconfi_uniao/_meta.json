@@ -1,0 +1,13 @@
+{
+ "collected_at": "2026-07-10T16:36:10.687317+00:00",
+ "endpoint_dca": "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca?an_exercicio={ano}&no_anexo=DCA-Anexo I-D&id_ente=1",
+ "fonte": "API SICONFI (Tesouro Nacional) — dados abertos, sem credencial",
+ "n_itens_2024": 700,
+ "n_itens_2025": 707,
+ "n_paginas_2024": 1,
+ "n_paginas_2025": 1,
+ "sha256": {
+  "dca_uniao_2024_ID.parquet": "7d1587a735bb77a50f2c842fd3ad93681de2e3f1de0ccc803e4266fad5e0f2f8",
+  "dca_uniao_2025_ID.parquet": "5b8a9d72b5f0fd12a9c8fbf6eed7af9f8cf373f50bc0be6907154864153f3890"
+ }
+}

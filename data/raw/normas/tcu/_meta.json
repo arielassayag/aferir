@@ -1,0 +1,14 @@
+{
+ "collected_at": "2026-07-12T19:30:00+00:00",
+ "url_oficial": "https://sites.tcu.gov.br/recursos/reforma-tributaria/Metodologia%20CBS%20Aliquota%20de%20Referencia%20e%20Redutor.pdf",
+ "fonte": "TCU, Segecex/SecexContas — Metodologia de Calculo: Aliquota de Referencia da CBS e Redutor das Compras Governamentais (homologacao, art. 349, par. 7, II, LC 214/2025; Resolucao TCU 388/2026)",
+ "verificacao": "byte-identico ao arquivo servido pela URL oficial em 2026-07-12 (content-length 1218133; content-md5 F2+HrXRSUwP7RpdSNiswug==; last-modified 2026-02-03)",
+ "normas_conexas": {
+  "resolucao_tcu_388_2026": "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/80488450 (norma primaria: homologacao das metodologias CBS/IBS/redutor e calculo do valor de referencia dos arts. 477-478 da LC 214/2025; BTCU ano 9 n. 100, 11/06/2026)",
+  "resolucao_tcu_389_2026": "https://sites.tcu.gov.br/recursos/reforma-tributaria/resolucao-tcu-n389-de-24-junho-2026.pdf (alteracao pontual: apenas o inciso I do paragrafo unico do art. 2 da Res. 388, em razao da revogacao do art. 350, par. 3, I, da LC 214 pelo art. 181 da LC 227/2026)"
+ },
+ "paginas": 78,
+ "sha256": {
+  "tcu_metodologia_cbs_aliquota_referencia_redutor.pdf": "cf19aa1fd66e1192adc83f182e55e4db23e74ab529b2a4e18bb502a729a320ac"
+ }
+}

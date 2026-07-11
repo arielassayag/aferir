@@ -1,0 +1,9 @@
+{
+ "bytes": 46554,
+ "collected_at": "2026-07-12T19:36:29.600708+00:00",
+ "nota": "preço de referência por CAMPO produtor (não por UF) — o pareamento campo→UF é etapa de processamento; XLSX mensal oficial",
+ "origem": "download",
+ "sha256": "1f547cb0b379f85187e120a40ce6eae67c2432a09c29e7e5b7306908ed4bb9bb",
+ "status_http": 200,
+ "url": "https://www.gov.br/anp/pt-br/assuntos/royalties-e-outras-participacoes/arq-royalties/prp/pr/2025/preco-referencia-petroleo-04.xlsx"
+}

@@ -1,0 +1,14 @@
+{
+ "bytes": 1664,
+ "collected_at": "2026-07-17T01:02:14.772651+00:00",
+ "descricao": "BCB/SGS, séries mensais jan-dez/2021: 20541 (saldo carteira de crédito PF, R$ mi), 25353 (ICC-PF, taxa do estoque, % a.a.), 4189 (Selic acumulada no mês anualizada, % a.a.) — validação externa do resíduo SIFIM (FISIM-PF lado-empréstimos), dado aberto, sem credencial",
+ "nota_fonte_viva": "fonte VIVA: o BCB pode revisar séries de crédito retroativamente; vintage congelada pela existência do CSV — paridade entre vintages afere-se por igualdade numérica das 36 células (3 séries × 12 meses), não por sha256",
+ "origem": "download",
+ "sha256": "261379892f27e0ee89e38f078d0606e61eae4b87c9307eaff05cdb63870be892",
+ "status_http": 200,
+ "url": {
+  "20541": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.20541/dados?formato=json&dataInicial=01/01/2021&dataFinal=31/12/2021",
+  "25353": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.25353/dados?formato=json&dataInicial=01/01/2021&dataFinal=31/12/2021",
+  "4189": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.4189/dados?formato=json&dataInicial=01/01/2021&dataFinal=31/12/2021"
+ }
+}
